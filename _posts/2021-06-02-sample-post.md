@@ -2,10 +2,11 @@
 layout: post
 title: Post with a Background Image
 description: "Sample post."
-modified: Jun 2, 2021
 tags: [Holography,AdS/CFT,Entanglement Entropy,Quantum Information]
 image:
   background: triangular.png
+  
+modified: 2021-02-02
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
