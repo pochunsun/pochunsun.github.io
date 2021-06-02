@@ -86,7 +86,6 @@ SE = \frac{\sigma}{\sqrt{n}}
 <img src="https://render.githubusercontent.com/render/math?math=  e^{i \pi} =-1">
 
 
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{s}}=\int _{a}^{b}{\sqrt {\mathrm {d} x^{2}+\mathrm {d} y^{2}}}=\int _{a}^{b}{\sqrt {1+y'^{2}}}\,\mathrm {d} x,}">
-  <semantics>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{s}}=\int _{a}^{b}{\sqrt {\mathrm {d} x^{2}+\mathrm {d} y^{2}}}=\int _{a}^{b}{\sqrt {1+y'^{2}}}\,\mathrm {d} x,}">
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
