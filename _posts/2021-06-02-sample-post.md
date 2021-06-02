@@ -83,7 +83,7 @@ in RN case. Note that, in extremal case, $Q=\sqrt{3}$.
 SE = \frac{\sigma}{\sqrt{n}}
 ```
 
-<img src="https://render.githubusercontent.com/render/math?math=  e^{i \pi} =-1">
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 
 
