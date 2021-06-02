@@ -9,5 +9,7 @@ image:
 modified: 2021-02-02
 ---
 
-## **<font color = orange>_Implemented by Pytorch_</font>**
-### **<font color = red>Reference: Phys. Rev. D 98,106014 (2018)</font>**
+## ***Implemented by Pytorch***
+### **Reference: Phys. Rev. D 98,106014 (2018)**
+- [x] this is a complete item
+- [ ] this is an incomplete item
