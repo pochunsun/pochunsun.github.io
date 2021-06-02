@@ -79,6 +79,8 @@ $$
 
 in RN case. Note that, in extremal case, $Q=\sqrt{3}$. 
 
+<msqrt><mn>3</mn></msqrt>
+  
 <math xmlns='http://www.w3.org/1998/Math/MathML'
     mathematica:form='StandardForm'
     xmlns:mathematica='http://www.wolfram.com/XML/'>
