@@ -3,7 +3,7 @@ layout: page
 title: About Me
 image:
   feature: pochunword.jpg
-  credit: Photo by 子杰
+  credit: 子杰
 comments: false
 modified: 2021-02-02
 ---
