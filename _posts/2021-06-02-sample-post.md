@@ -57,5 +57,27 @@ plt.show()
 <a href="https://live.staticflickr.com/65535/51221043969_643c40812e.jpg"><img src="https://live.staticflickr.com/65535/51221043969_643c40812e.jpg" alt="" width="500"></a>
 </figure>
 
+## Setup
+We consider scalar field $\phi$ only dependent on holographic direction $z$
+$$ \tag{1}
+\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)
+$$
+
+in asymptotic AdS black hole background
+$$ \tag{2}
+ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)
+$$
+where emblackening function have following properties
+$$ \tag{3}
+h(0)=1 \&   h(1)=0 \left(\text{For simplicity, we set } z_h=1\right)
+$$
+
+Specially, 
+$$\tag{4}
+h(z)=1-z^3-Q^2 z^3+Q^2 z^4
+$$
+
+in RN case. Note that, in extremal case, $Q=\sqrt{3}$. 
+
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
