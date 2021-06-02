@@ -12,7 +12,7 @@ modified: 2021-02-02
 ## ***Implemented by Pytorch***
 
 ## Package
-```python
+```Jupyter
 import numpy as np
 import random as random
 import matplotlib.pyplot as plt
