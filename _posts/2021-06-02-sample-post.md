@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Sample Post
-description: ""
-modified: 2021-06-24
-tags: [Holography] [AdS/CFT] [Entanglement Entropy] [Quantum Information]
+title: Post with a Background Image
+description: "Sample post with a background image CSS override."
+tags: [sample post]
 image:
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  background: triangular.png
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
