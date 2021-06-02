@@ -85,6 +85,6 @@ in RN case. Note that, in extremal case, $Q=\sqrt{3}$.
 <img src="https://render.githubusercontent.com/render/math?math=Q=\sqrt{3}">
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\sum_{n=0}^\infty\frac{1}{2^n}\end{equation}">
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
