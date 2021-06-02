@@ -79,18 +79,6 @@ $$
 
 in RN case. Note that, in extremal case, $Q=\sqrt{3}$. 
 
-<math xmlns='http://www.w3.org/1998/Math/MathML'
-    mathematica:form='StandardForm'
-    xmlns:mathematica='http://www.wolfram.com/XML/'><msqrt><mn>3</mn></msqrt></math>
-  
-<math xmlns='http://www.w3.org/1998/Math/MathML'
-    mathematica:form='StandardForm'
-    xmlns:mathematica='http://www.wolfram.com/XML/'>
- <msup>
-  <mn>2</mn>
-  <mn>2</mn>
- </msup>
-</math>
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
