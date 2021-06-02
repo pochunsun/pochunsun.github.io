@@ -78,6 +78,16 @@ h(z)=1-z^3-Q^2 z^3+Q^2 z^4
 $$
 
 in RN case. Note that, in extremal case, $Q=\sqrt{3}$. 
-$Q=\sqrt{3}$
+
+<math xmlns='http://www.w3.org/1998/Math/MathML'
+    mathematica:form='StandardForm'
+    xmlns:mathematica='http://www.wolfram.com/XML/'>
+ <msup>
+  <mn>2</mn>
+  <mn>2</mn>
+ </msup>
+</math>
+
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
