@@ -82,7 +82,7 @@ in RN case. Note that, in extremal case, $Q=\sqrt{3}$.
 ```math
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 ```
-
+<img src="https://render.githubusercontent.com/render/math?math=Q=\sqrt{3}">
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 
