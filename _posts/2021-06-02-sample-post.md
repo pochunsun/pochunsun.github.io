@@ -2,7 +2,7 @@
 layout: post
 title: Post with a Background Image
 description: "Sample post."
-tags: [sample post]
+tags: [Holography]
 image:
   background: triangular.png
 ---
