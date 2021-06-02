@@ -12,7 +12,7 @@ modified: 2021-02-02
 ## ***Implemented by Pytorch***
 
 ## Package
-```Python
+```python
 import numpy as np
 import random as random
 import matplotlib.pyplot as plt
@@ -38,7 +38,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 ```
 ## Final Layer
 
-```Python
+```python
 def t(F):
     signr= np.heaviside(F-ir_cutoff,0)
     signl= np.heaviside(-F-ir_cutoff,0)
@@ -56,6 +56,8 @@ plt.show()
 <figure>
 <img src="https://github.com/pochunsun/pochunsun.github.io/blob/main/images/final%20layer.png" width="500" >
 </figure>
+
+
 
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
