@@ -54,7 +54,7 @@ plt.ylabel('$t(F)$')
 plt.show()
 ```
 <figure>
-<a href="https://www.flickr.com/photos/193140525@N07/51221043969/in/dateposted-public/lightbox/"><img src="https://www.flickr.com/photos/193140525@N07/51221043969/in/dateposted-public/lightbox/" alt="" width="500"></a>
+<a href="https://live.staticflickr.com/65535/51221043969_643c40812e.jpg"><img src="https://live.staticflickr.com/65535/51221043969_643c40812e.jpg" alt="" width="500"></a>
 </figure>
 
 
