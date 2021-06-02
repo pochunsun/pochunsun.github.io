@@ -7,7 +7,7 @@ image:
 comments: false
 modified: 2021-02-02
 ---
-
+## Education
 ### M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
 **Thesis Title:**
 *Time Evolution of the Holographic Entanglement Entropy during Black Hole Thermalization*
@@ -19,3 +19,7 @@ modified: 2021-02-02
 
 **Research Topic:**
 *Holographic Approach to Thermalization inGeneral Anisotropic Theories*
+
+
+## Publication
+P.~C.~Sun, D.-S.~Lee and C.~P.~Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164)[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)
