@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Po-Chun Sun
+description:      Well
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Po-Chun Sun
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Hi! I'm Po-Chun, a NCU master student in Physics."
+  email:          pochunsun97@g.ncu.edu.tw
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
