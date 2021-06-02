@@ -11,5 +11,4 @@ modified: 2021-02-02
 
 ## ***Implemented by Pytorch***
 ### **Reference: Phys. Rev. D 98,106014 (2018)**
-- [x] this is a complete item
-- [ ] this is an incomplete item
+[1] Phys. Rev. D 98,106014 (2018)
