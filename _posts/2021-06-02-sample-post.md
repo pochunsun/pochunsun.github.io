@@ -54,7 +54,7 @@ plt.ylabel('$t(F)$')
 plt.show()
 ```
 <figure>
-<img src="https://github.com/pochunsun/pochunsun.github.io/blob/main/images/final layer.jpg" width="500" >
+<img src="https://github.com/pochunsun/pochunsun.github.io/blob/main/images/final_layer.jpg" width="500" >
 </figure>
 
 
