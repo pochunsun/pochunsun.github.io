@@ -2,7 +2,8 @@
 layout: post
 title: Post with a Background Image
 description: "Sample post."
-tags: [Holography]
+modified: 2016-06-01T15:27:45-04:00
+tags: [Holography,AdS/CFT,Entanglement Entropy,Quantum Information]
 image:
   background: triangular.png
 ---
