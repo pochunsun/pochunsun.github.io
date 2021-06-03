@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Holographic Metric by Experimental Data (Ⅰ)
-description: "Sample post."
+description: "AdS/CFT is the useful mathematic tool to solving field theory problems by computing gravitational calculations. Here we provide a way to build up continous bulk metric by experimental data from field theory."
 tags: [Deep Learning,Pytorch,Holography,AdS/CFT,Entanglement Entropy,Quantum Information]
 image:
   background: triangular.png
