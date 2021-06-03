@@ -68,7 +68,7 @@ in asymptotic AdS black hole background
 
 where emblackening function have following properties
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle h(0)=1\qquad\text{and}\qquad h(1)=0\qquad\left(\text{For simplicity, we set } z_h=1\right) \end{equation}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle h(0)=1\qquad\text{and}\qquad h(1)=0\qquad\left(\text{For simplicity, we set}\quadz_h=1\right) \end{equation}">
 
 Specially,
 
