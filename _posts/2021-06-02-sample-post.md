@@ -435,5 +435,53 @@ def build_train_step_exp_fitting(model, loss_fn, optimizer):
 train_step_exp_fitting = build_train_step_exp_fitting(model_fitting, MSELoss, optimizer_exp_fitting)
 print(model_fitting.state_dict())
 ```
+```python
+from torch.utils.data import Dataset
+class SLRDataset(Dataset):
+    def __init__(self, phi_exp_data_tensor, pi_exp_data_tensor, train_data_y_tensor):
+        self.phi = phi_exp_data_tensor
+        self.pi = pi_exp_data_tensor
+        self.train = train_data_y_tensor
+        
+    def __getitem__(self, index):
+        return (self.phi[index],self.pi[index], self.train[index])
+    def __len__(self):
+        return len(self.phi)
+#
+phi_exp_data_tensor = torch.from_numpy(np.array(phi_exp_data))
+pi_exp_data_tensor = torch.from_numpy(np.array(pi_exp_data))
+train_data_y_tensor = torch.from_numpy(np.array(train_data_y))
+training_data = SLRDataset(phi_exp_data_tensor,pi_exp_data_tensor, train_data_y_tensor)
+
+from torch.utils.data import DataLoader
+train_loader = DataLoader(dataset=training_data, batch_size=50, shuffle=True)
+```
+```python
+epochs=10
+loss_epoch=[]
+for epoch in range(epochs):
+    losses_xp_fitting = []
+    for phi_batch,pi_batch, train_batch in train_loader:
+        loss = train_step_exp_fitting(ini_eta, phi_batch,pi_batch,train_batch)
+        losses_xp_fitting.append(loss)
+    loss_epoch.append(np.sum(losses_xp_fitting)/len(losses_xp_fitting))
+    print('loss_epoch=',np.sum(losses_xp_fitting)/len(losses_xp_fitting))
+print(model_fitting.state_dict())
+```
+```
+loss_epoch= 12.358866596221924
+loss_epoch= 9.669654583930969
+loss_epoch= 7.773796164989472
+loss_epoch= 6.478020656108856
+loss_epoch= 5.501032030582428
+loss_epoch= 4.766412723064422
+loss_epoch= 4.42119995355606
+loss_epoch= 4.286863183975219
+loss_epoch= 4.241568195819855
+loss_epoch= 4.228258776664734
+OrderedDict([('training_data_ir', tensor([[ 3.8222],
+        [-0.8429]]))])
+```
+
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
