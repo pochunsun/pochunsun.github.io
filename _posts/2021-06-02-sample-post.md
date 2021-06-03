@@ -168,7 +168,7 @@ The activation function at each layer is
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \Pi (\Delta \eta %2B\eta )=\Pi (\eta ) %2B\frac{1}{3} \left(k_1 %2B 2 k_2 %2B 2 k_3 %2B k_4\right)\end{equation*}">
 
-where $k_1, k_2, k_3, k_4$ are defined by
+where <img src="https://render.githubusercontent.com/render/math?math=%24k_1%2C%20k_2%2C%20k_3%2C%20k_4%24"> are defined by
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_1\equiv\frac{\Delta \eta }{2}  \tilde{f}(\eta ,\phi ,\Pi )\end{equation*}">
 
