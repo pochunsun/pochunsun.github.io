@@ -468,7 +468,7 @@ for epoch in range(epochs):
     print('loss_epoch=',np.sum(losses_xp_fitting)/len(losses_xp_fitting))
 print(model_fitting.state_dict())
 ```
-``
+`
 loss_epoch= 12.358866596221924
 
 loss_epoch= 9.669654583930969
@@ -490,7 +490,7 @@ loss_epoch= 4.241568195819855
 loss_epoch= 4.228258776664734
 
 OrderedDict([('training_data_ir', tensor([[ 3.8222],[-0.8429]]))])
-``
+`
 
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
