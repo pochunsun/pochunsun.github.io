@@ -23,11 +23,11 @@ Thus, we are able to say
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%3DH%5E%7B%5Ctext%7Buv%7D%7D_R(%5Ceta%20)%5Cequiv%20d_0%2Bd_1%20%5Ceta%20%2Bd_2%20%5Ceta%20%5E2%2B%5Ctext%7B...%7D%3D%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D.%5Coverset%7B%5Crightharpoonup%20%7D%7B%5Ceta%20%7D_%7B%5Ctext%7Buv%7D%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%20%3E%5Ceta%20%5E*%0A%5Cend%7Bequation*%7D">
 
-where <img src="https://render.githubusercontent.com/render/math?math=%24%5Ceta%5E*%24"> is matching point. (<img src="https://render.githubusercontent.com/render/math?math=%24%5Ceta%5E*%3D0.5%24"> in our code) Due to (A2),
+where <img src="https://render.githubusercontent.com/render/math?math=%24%5Ceta%5E*%24"> is a matching point. (<img src="https://render.githubusercontent.com/render/math?math=%24%5Ceta%5E*%3D0.5%24"> in our code) Due to (A2),
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0Ac_%7B-1%7D%3D1%20%5Cqquad%5Ctext%7Band%7D%5Cqquad%20c_0%3D0%0A%5Cend%7Bequation*%7D">
 
-From (A3), we can fix two of coefficient <img src="https://render.githubusercontent.com/render/math?math=%24%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D%3D(d_0%2C%20d_1%2C%20d_2%2C%20...)%24">. Moreover, because of (A1), we have matching conditions
+From (A3), we can fix the two of coefficients <img src="https://render.githubusercontent.com/render/math?math=%24%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D%3D(d_0%2C%20d_1%2C%20d_2%2C%20...)%24">. Moreover, because of (A1), we have the matching conditions
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH%5E%7B%5Ctext%7Bir%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%3DH%5E%7B%5Ctext%7Buv%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%2C%5Cquad%5Cfrac%7B%5Cpartial%20H%5E%7B%5Ctext%7Bir%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%7D%7B%5Cpartial%20%5Ceta%20%7D%3D%5Cfrac%7B%5Cpartial%20H%5E%7B%5Ctext%7Buv%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%7D%7B%5Cpartial%20%5Ceta%20%7D%2C%5Ctext%7B...%7D%5Ctext%7B...%7D%0A%5Cend%7Bequation*%7D">
 
@@ -262,6 +262,7 @@ for i in range(0,int(did_p+1)):
     before_h.append(fitting_results_exp(torch.tensor(h_fitting_vec_ir),eta))
     eta+=interval
 ```
+
 ```python
 plt.plot(loss_epoch, lw=2, label='Loss Function')
 plt.title('Time Evolution of Loss Function')
@@ -272,6 +273,7 @@ plt.tight_layout()
 plt.savefig("loss_rnq09_3n_1.png")
 plt.show()
 ```
+
 <figure>
 <a href="https://live.staticflickr.com/65535/51221809556_0bc1bfceef_w.jpg"><img src="https://live.staticflickr.com/65535/51221809556_0bc1bfceef_w.jpg" alt="" width="500"></a>
 </figure>
