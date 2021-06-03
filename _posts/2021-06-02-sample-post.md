@@ -64,7 +64,7 @@ We consider scalar field <img src="https://render.githubusercontent.com/render/m
 
 in asymptotic AdS black hole background
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle ds^2=\frac{1}{z^2}\left(-h(z)dt^2 %2B\frac{dz^2}{h(z)} %2B\sum _{i=1}^n dx_i^2\right)\end{equation*}">
 
 where emblackening function have following properties
 
@@ -72,7 +72,7 @@ where emblackening function have following properties
 
 Specially,
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle h(z)=1-z^3-Q^2 z^3+Q^2 z^4\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle h(z)=1-z^3-Q^2 z^3 %2B Q^2 z^4\end{equation*}">
 
 in RN case. Note that, in extremal case, <img src="https://render.githubusercontent.com/render/math?math=Q=\sqrt{3}">.
 
@@ -81,7 +81,7 @@ in RN case. Note that, in extremal case, <img src="https://render.githubusercont
 
 The EoM for <img src="https://render.githubusercontent.com/render/math?math=\phi(z)"> is
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi^{''}(z)+\left(z^2 h^{'}(z)-2 z h(z)\right) \phi^{'}(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi^{''}(z) %2B \left(z^2 h^{'}(z)-2 z h(z)\right) \phi^{'}(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
 
 Now we're wanna let <img src="https://render.githubusercontent.com/render/math?math=g_{11}=1">. Consider the following coordinate transformation
 
@@ -89,7 +89,7 @@ Now we're wanna let <img src="https://render.githubusercontent.com/render/math?m
 
 Then the EoM become
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \frac{\partial \Pi }{\partial \eta }+  H_R(\eta )\Pi-m^2 \phi-\frac{\delta V(\phi )}{\delta \phi }=0\quad ,\qquad H_R(\eta )\equiv\frac{6 h(z(\eta ))-y h^{'}(z(\eta ))}{2 \sqrt{h(z(\eta ))}}\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \frac{\partial \Pi }{\partial \eta } %2B  H_R(\eta )\Pi-m^2 \phi-\frac{\delta V(\phi )}{\delta \phi }=0\quad ,\qquad H_R(\eta )\equiv\frac{6 h(z(\eta ))-y h^{'}(z(\eta ))}{2 \sqrt{h(z(\eta ))}}\end{equation*}">
 
 where <img src="https://render.githubusercontent.com/render/math?math=\Pi:=\frac{\partial \phi }{\partial \eta }">. Specially,  for Schwarzschild case, 
 
@@ -160,21 +160,21 @@ plt.show()
 ### _Runge-Kutta Fourth-Order_
 From EoM, let's say
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \tilde{f}(\eta ,\phi ,\Pi )\equiv \frac{\partial \Pi }{\partial \eta }=-H_R\Pi+m^2 \phi+\frac{\delta V(\phi )}{\delta \phi }\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \tilde{f}(\eta ,\phi ,\Pi )\equiv \frac{\partial \Pi }{\partial \eta }=-H_R\Pi %2B m^2 \phi %2B\frac{\delta V(\phi )}{\delta \phi }\end{equation*}">
 
 The activation function at each layer is
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \phi (\Delta \eta +\eta )=\phi (\eta )+\Delta \eta  \left(\Pi (\eta )+\frac{1}{3} \left(k_1+k_2+k_3\right)\right)\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \phi (\Delta \eta %2B\eta )=\phi (\eta ) %2B\Delta \eta  \left(\Pi (\eta ) %2B\frac{1}{3} \left(k_1 %2B k_2 %2B k_3\right)\right)\end{equation*}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \Pi (\Delta \eta +\eta )=\Pi (\eta )+\frac{1}{3} \left(k_1+2 k_2+2 k_3+k_4\right)\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \Pi (\Delta \eta %2B\eta )=\Pi (\eta ) %2B\frac{1}{3} \left(k_1 %2B 2 k_2 %2B 2 k_3 %2B k_4\right)\end{equation*}">
 
 where $k_1, k_2, k_3, k_4$ are defined by
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_1\equiv\frac{\Delta \eta }{2}  \tilde{f}(\eta ,\phi ,\Pi )\end{equation*}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_2\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\frac{\Delta \eta }{2} ,\phi+k ,\Pi+k_1 \right),\qquad k\equiv\frac{\Delta \eta }{2}  \left(\Pi+\frac{k_1}{2} \right)\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_2\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta %2B \frac{\Delta \eta }{2} ,\phi %2B k ,\Pi %2B k_1 \right),\qquad k\equiv\frac{\Delta \eta }{2}  \left(\Pi %2B \frac{k_1}{2} \right)\end{equation*}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_3\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\frac{\Delta \eta }{2} ,\phi+k ,\Pi+k_2 \right)\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_3\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta %2B\frac{\Delta \eta }{2} ,\phi %2B k ,\Pi %2B k_2 \right)\end{equation*}">
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_4\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta %2B\Delta \eta ,\phi %2B\ell  ,\Pi %2B 2 k_3 \right),\qquad\ell \equiv\Delta \eta  \left(k_3 %2B \Pi \right)\end{equation*}">
 
