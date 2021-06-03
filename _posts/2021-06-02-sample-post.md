@@ -227,6 +227,6 @@ while len(phi_list_pos_exp)<num_training_data or len(phi_list_neg_exp)<num_train
 ## Generating Data by Real Metric
 Set <img src="https://render.githubusercontent.com/render/math?math=%24%5Cepsilon%20%3D0.1%24">
 
-True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%5Cleq%20%5Cepsilon%24">            False: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%3E%5Cepsilon%24">
+True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%5Cleq%20%5Cepsilon%24">     <img src="https://render.githubusercontent.com/render/math?math=%24%5Cqquad%24">       False: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%3E%5Cepsilon%24">
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
