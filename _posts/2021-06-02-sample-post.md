@@ -176,9 +176,9 @@ where $k_1, k_2, k_3, k_4$ are defined by
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_3\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\frac{\Delta \eta }{2} ,\phi+k ,\Pi+k_2 \right)\end{equation*}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_4\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\Delta \eta ,\phi+\ell  ,\Pi+2 k_3 \right),\qquad\ell \equiv\Delta \eta  \left(k_3+\Pi \right)\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_4\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta %2B\Delta \eta ,\phi %2B\ell  ,\Pi %2B 2 k_3 \right),\qquad\ell \equiv\Delta \eta  \left(k_3 %2B \Pi \right)\end{equation*}">
 
 
-<img src="https://render.githubusercontent.com/render/math?math=%5CHuge%0A%5Cbegin%7Balign*%7D%0Ax%26%3D1%5C%5C%0Ax%2By%26%3D2%5C%5C%0AP%26%3D%5Cbegin%7Bbmatrix%7Dp_1%5C%5Cp_2%5Cend%7Bbmatrix%7D%0A%5Cend%7Balign*%7D">
+
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
