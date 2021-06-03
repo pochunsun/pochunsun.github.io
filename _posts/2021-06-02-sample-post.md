@@ -468,7 +468,9 @@ for epoch in range(epochs):
     print('loss_epoch=',np.sum(losses_xp_fitting)/len(losses_xp_fitting))
 print(model_fitting.state_dict())
 ```
-**Pro-tip:** Delet{: .notice}
+**Pro-tip:** Delet
+{: .notice}
+
 `loss_epoch= 12.358866596221924`
 `loss_epoch= 9.669654583930969`
 
