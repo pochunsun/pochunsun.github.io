@@ -29,6 +29,15 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 
 ---
 
+# Programming Language
+- Mathematica
+- Python(Pytorch)
+- MATLAB
+- Maple
+- Latex
+
+---
+
 # Excellent Subjects
 ### The Courses I Took as I Was an Undergraduate Student
 
