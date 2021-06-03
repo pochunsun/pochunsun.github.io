@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Holographic Dual Metric by Receiving Experimental Data
+title: Learning Holographic Metric by Experimental Data (Ⅰ)
 description: "Sample post."
 tags: [Deep Learning,Pytorch,Holography,AdS/CFT,Entanglement Entropy,Quantum Information]
 image:
