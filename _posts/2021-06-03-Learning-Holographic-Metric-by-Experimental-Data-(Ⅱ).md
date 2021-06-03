@@ -31,6 +31,8 @@ From (A3), we can fix two of coefficient <img src="https://render.githubusercont
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH%5E%7B%5Ctext%7Bir%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%3DH%5E%7B%5Ctext%7Buv%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%2C%5Cquad%5Cfrac%7B%5Cpartial%20H%5E%7B%5Ctext%7Bir%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%7D%7B%5Cpartial%20%5Ceta%20%7D%3D%5Cfrac%7B%5Cpartial%20H%5E%7B%5Ctext%7Buv%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%7D%7B%5Cpartial%20%5Ceta%20%7D%2C%5Ctext%7B...%7D%5Ctext%7B...%7D%0A%5Cend%7Bequation*%7D">
 
+---
+
 ```python
 ReLU= nn.ReLU()
 from torch.autograd import grad
@@ -165,6 +167,8 @@ class PyTorchLinearRegression_fitting(nn.Module):
 model_fitting = PyTorchLinearRegression_fitting()#.to(device)
 print(model_fitting.state_dict())
 ```
+---
+
 ## Optimizer: Adam
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0A%5Chat%7Bm%7D_%7Bi%2B1%7D%5Cleftarrow%20%5Cfrac%7B%5Cleft(1-%5Cbeta%20_1%5Cright)%20%5Cnabla%20_%7B%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D%7DL_i%2B%5Cbeta%20_1%20%5Cleft(1-%5Cbeta%20_1%5E%7Bi%2B1%7D%5Cright)%20%5Chat%7Bm%7D_i%7D%7B1-%5Cbeta%20_1%5E%7Bi%2B1%7D%7D%0A%5Cend%7Bequation*%7D">
 
