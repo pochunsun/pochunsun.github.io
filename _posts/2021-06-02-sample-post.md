@@ -81,7 +81,7 @@ in RN case. Note that, in extremal case, <img src="https://render.githubusercont
 
 The EoM for <img src="https://render.githubusercontent.com/render/math?math=\phi(z)"> is
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi''(z)+\left(z^2 h'(z)-2 z h(z)\right) \phi'(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi^{''}(z)+\left(z^2 h^{'}(z)-2 z h(z)\right) \phi^{'}(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
 
 Now we're wanna let <img src="https://render.githubusercontent.com/render/math?math=g_{11}=1">. Consider the following coordinate transformation
 
