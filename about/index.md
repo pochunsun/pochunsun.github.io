@@ -9,13 +9,13 @@ modified: 2021-02-02
 ---
 ## Education
 ### M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
-- Thesis Title:
-- *Time Evolution of the Holographic Entanglement Entropy during Black Hole Thermalization*
+Thesis Title:
+*Time Evolution of the Holographic Entanglement Entropy during Black Hole Thermalization*
 
 ### B.S. in Physics, [Natl. Dong Hwa U](https://phys.ndhu.edu.tw/).
-* Program of Theoretical and Computational Physics
-* Program of Nano Science and Optoelectronics
-* Minor: Division of Mathematical Science, Dept. of Applied Mathematics
+- Program of Theoretical and Computational Physics
+- Program of Nano Science and Optoelectronics
+- Minor: Division of Mathematical Science, Dept. of Applied Mathematics
 
 **Research Topic:**
 *Holographic Approach to Thermalization inGeneral Anisotropic Theories*
