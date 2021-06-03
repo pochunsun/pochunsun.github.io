@@ -468,9 +468,7 @@ for epoch in range(epochs):
     print('loss_epoch=',np.sum(losses_xp_fitting)/len(losses_xp_fitting))
 print(model_fitting.state_dict())
 ```
-**Pro-tip:** Delet
-{: .notice}
-
+The Results:
 loss_epoch= 12.358866596221924
 loss_epoch= 9.669654583930969
 loss_epoch= 7.773796164989472
@@ -482,14 +480,54 @@ loss_epoch= 4.286863183975219
 loss_epoch= 4.241568195819855
 loss_epoch= 4.228258776664734
 OrderedDict([('training_data_ir', tensor([[ 3.8222],[-0.8429]]))])
-{: .notice}
+```python
+did_p=100*uv_cutoff
+interval=(ini_eta-ir_cutoff)/did_p
+eta=ir_cutoff
+fitting_results_exp_h=[]
+fitting_results_exp_eta=[]
+for i in range(0,int(did_p+1)):
+    fitting_results_exp_eta.append(eta)
+    fitting_results_exp_h.append(fitting_results_exp(h_fitting_vec_tensor_ir,eta))
+    eta+=interval
 
-**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
-{: .notice}
-
-
-Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
-{: .notice}
+interval=(ini_eta-ir_cutoff)/did_p
+eta=ir_cutoff
+before_h=[]
+before_eta=[]
+for i in range(0,int(did_p+1)):
+    before_eta.append(eta)
+    before_h.append(fitting_results_exp(torch.tensor(h_fitting_vec_ir),eta))
+    eta+=interval
+```
+```python
+plt.plot(loss_epoch, lw=2, label='Loss Function')
+plt.title('Time Evolution of Loss Function')
+plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
+plt.xlabel('epoch')
+plt.ylabel('Loss Function')
+plt.tight_layout()
+plt.savefig("loss_rnq09_3n_1.png")
+plt.show()
+```
+<figure>
+<a href="https://live.staticflickr.com/65535/51221809556_0bc1bfceef_w.jpg"><img src="https://live.staticflickr.com/65535/51221809556_0bc1bfceef_w.jpg" alt="" width="500"></a>
+</figure>
+```python
+plt.plot(np.array(eta_base),H_r(np.array(eta_base)), lw=5, label='True Metric')
+plt.plot(fitting_results_exp_eta,fitting_results_exp_h, lw=5, label='After Learning')
+plt.plot(before_eta,before_h, lw=5, label='Before Learning')
+plt.title('Learning Metric')
+plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
+plt.xlabel('$\eta$')
+plt.ylabel('$h(\eta)$')
+plt.tight_layout()
+plt.savefig("learning_rnq09_3n_1.png")
+plt.show()
+```
+<figure>
+<a href="https://live.staticflickr.com/65535/51222028018_2fec228443_w.jpg"><img src="https://live.staticflickr.com/65535/51222028018_2fec228443_w.jpg" alt="" width="500"></a>
+</figure>
 
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
