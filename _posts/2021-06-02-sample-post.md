@@ -79,11 +79,11 @@ in RN case. Note that, in extremal case, <img src="https://render.githubusercont
 
 ## Reproduced Metric and EoM
 
-The EoM for $\phi(z)$ is
+The EoM for <img src="https://render.githubusercontent.com/render/math?math=\phi(z)"> is
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi ''(z)+\left(z^2 h'(z)-2 z h(z)\right) \phi '(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi''(z)+\left(z^2 h'(z)-2 z h(z)\right) \phi'(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
 
-Now we're wanna let $g_{11}=1$. Consider the following coordinate transformation
+Now we're wanna let <img src="https://render.githubusercontent.com/render/math?math=g_{11}=1">. Consider the following coordinate transformation
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle d\eta=-\frac{dz}{z \sqrt{h(z)}}\quad ,\qquad \eta =\int _z^{z_h=1}\frac{dz}{z \sqrt{h(z)}}\end{equation*}">
 
@@ -91,7 +91,7 @@ Then the EoM become
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \frac{\partial \Pi }{\partial \eta }+  H_R(\eta )\Pi-m^2 \phi-\frac{\delta V(\phi )}{\delta \phi }=0\quad ,\qquad H_R(\eta )\equiv\frac{6 h(z(\eta ))-y h'(z(\eta ))}{2 \sqrt{h(z(\eta ))}}\end{equation*}">
 
-where $\Pi :=\frac{\partial \phi }{\partial \eta }$. Specially,  for Schwarzschild case, 
+where <img src="https://render.githubusercontent.com/render/math?math=\Pi:=\frac{\partial \phi }{\partial \eta }">. Specially,  for Schwarzschild case, 
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z=\text{sech}^{\frac{2}{3}}\left(\frac{3 \eta }{2}\right)\quad ,\qquad H_R(\eta )=3 \coth (3 \eta )\end{equation*}">
 
