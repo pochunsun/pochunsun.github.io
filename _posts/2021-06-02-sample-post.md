@@ -193,6 +193,11 @@ where $k_1, k_2, k_3, k_4$ are defined by
 
 <label for="result">The result is: </label>
 <p id="result"></p>
-
+\Huge
+\begin{align*}
+x&=1\\
+x+y&=2\\
+P&=\begin{bmatrix}p_1\\p_2\end{bmatrix}
+\end{align*}
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
