@@ -32,7 +32,7 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 ## Excellent Subjects
 ### The Courses I Took as I Was an Undergraduate Student
 
-| Courses (The Course Opened by Dept. of)                                                     |  Grade |  Ranking/# of People       |
+| Courses (The Course Opened by Dept. of)                                                     |  Grade |  Ranking                   |
 |:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |General Physics (I)/(II)                                                                     |  A/A+  |  3/37  1/46                | 
 |:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
@@ -75,7 +75,7 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 
 ### The courses I took as I am a graduate student
 
-|  courses                                     |  Grade  |   Ranking/# of People       |
+|  courses                                     |  Grade  |   Ranking                   |
 |:-------------------------------------------- |:-------:|:---------------------------:|
 |General Relativity                            |  80     | 1/3                         |
 |:-------------------------------------------- |:-------:|:---------------------------:|
