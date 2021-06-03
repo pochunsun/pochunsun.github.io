@@ -164,8 +164,8 @@ From EoM, let's say
 
 The activation function at each layer is
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\displaystyle \phi (\Delta \eta +\eta )=\phi (\eta )+\Delta \eta  \left(\Pi (\eta )+\frac{1}{3} \left(k_1+k_2+k_3\right)\right)\\
-\Pi (\Delta \eta +\eta )=\Pi (\eta )+\frac{1}{3} \left(k_1+2 k_2+2 k_3+k_4\right)\end{align*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align}\displaystyle \phi (\Delta \eta +\eta )=\phi (\eta )+\Delta \eta  \left(\Pi (\eta )+\frac{1}{3} \left(k_1+k_2+k_3\right)\right)\\
+\Pi (\Delta \eta +\eta )=\Pi (\eta )+\frac{1}{3} \left(k_1+2 k_2+2 k_3+k_4\right)\end{align}">
 
 where $k_1, k_2, k_3, k_4$ are defined by
 $$
