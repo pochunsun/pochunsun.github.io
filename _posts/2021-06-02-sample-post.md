@@ -95,7 +95,51 @@ where <img src="https://render.githubusercontent.com/render/math?math=\Pi:=\frac
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z=\text{sech}^{\frac{2}{3}}\left(\frac{3 \eta }{2}\right)\quad ,\qquad H_R(\eta )=3 \coth (3 \eta )\end{equation*}">
 
+```python
+def h(y):
+    return 1-y**3-(q**2)*y**3+(q**2)*y**4
 
+def eta_coord(y):
+    r=[]
+    for i in range (0,len(y)):
+        r=np.append(r,integrate.quad(lambda z: 1/(z*(h(z)**(1/2))), y[i],1)[0])
+    return r
+
+def y_coord(eta):
+    r=[]
+    accep_error=10**(-3)
+    for i in range (0,len(eta)):
+        erroreta=100
+        y_lower=0
+        y_upper=1
+        while abs(erroreta) > accep_error:
+            yy=(y_lower+y_upper)/2
+            test_eta=eta_coord(np.array([yy]))
+            if test_eta > eta[i] :
+                 y_lower=yy
+            else: 
+                 y_upper=yy
+            erroreta=eta[i]-test_eta
+        r=np.append(r,yy)  
+    return r
+
+def H_r(eta):
+    eta=eta/scale
+    return (6*h(y_coord(eta))-y_coord(eta)*derivative(h,y_coord(eta), dx=1e-6))/(2*(h(y_coord(eta))**(1/2)))
+
+def v(phi):
+    return (lam*phi**4)/4 #delta_v(phi)-> derivative(v,phi)
+
+def ff(eta,phi,pi):
+    return (derivative(v,phi, dx=1e-6)-H_r(eta*scale)*pi*scale+phi*m2)*scale**2
+
+
+eta_base=[]
+for i in range(0,int(layer)):
+    eta_base.append(ir_cutoff+i*abs(delta_eta))
+tanh = nn.Tanh()
+print(len(eta_base),eta_base[layer-1],layer)
+```
 
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
