@@ -23,3 +23,6 @@ modified: 2021-02-02
 
 <label for="result">The result is: </label>
 <p id="result"></p>
+
+
+***Thanks the [discussion](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b) and the [provider](https://jsfiddle.net/8ndx694g/)*** 
