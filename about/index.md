@@ -32,5 +32,5 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 |--------------------------------------------------------------------------------|--------|----------------------------|
 |General Physics (I)/(II)                                                        |  A/A+  |  3/37  1/46                | 
 |Calculus (I)/(II)                                                               |A+      |  1/73   1/101              |
-|Matrices and Vector Analysis                                                    | A+     | 1/64                       |
+|Matrices and Vector Analysis                                              | A+     | 1/64                       |
 |Introduction to Nanotechnology                                                  | A      | 1/22                       |
