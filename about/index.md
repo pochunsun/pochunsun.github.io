@@ -19,7 +19,7 @@ Thesis Title:
 - Program of Nano Science and Optoelectronics
 - Minor: Division of Mathematical Science, Dept. of Applied Mathematics
 
-+ Research Topic:
++ Research Topic: <br />
 *Holographic Approach to Thermalization inGeneral Anisotropic Theories*
 
 
