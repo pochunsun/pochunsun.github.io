@@ -36,8 +36,9 @@ import pandas as pd
 from pandas import Series,DataFrame
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 ```
-## Final Layer
+---
 
+## Final Layer
 ```python
 def t(F):
     signr= np.heaviside(F-ir_cutoff,0)
@@ -56,6 +57,7 @@ plt.show()
 <figure>
 <a href="https://live.staticflickr.com/65535/51221043969_643c40812e.jpg"><img src="https://live.staticflickr.com/65535/51221043969_643c40812e.jpg" alt="" width="500"></a>
 </figure>
+---
 
 ## Setup
 We consider scalar field <img src="https://render.githubusercontent.com/render/math?math=\phi"> only dependent on holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
@@ -76,6 +78,7 @@ Specially,
 
 in RN case. Note that, in extremal case, <img src="https://render.githubusercontent.com/render/math?math=Q=\sqrt{3}">.
 
+---
 
 ## Reproduced Metric and EoM
 
@@ -155,6 +158,7 @@ plt.show()
 <figure>
 <a href="https://live.staticflickr.com/65535/51222259119_b1b528594e.jpg"><img src="https://live.staticflickr.com/65535/51222259119_b1b528594e.jpg" alt="" width="500"></a>
 </figure>
+---
 
 ## Activation Function
 ### _Runge-Kutta Fourth-Order_
@@ -224,6 +228,8 @@ while len(phi_list_pos_exp)<num_training_data or len(phi_list_neg_exp)<num_train
                     train_data_y.append(final_layer) #true t(pi)=0
                     #print(len(train_data_y))
 ```
+---
+
 ## Generating Data by Real Metric
 Set <img src="https://render.githubusercontent.com/render/math?math=%24%5Cepsilon%20%3D0.1%24">
 
@@ -233,6 +239,7 @@ True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%2
 <a href="https://live.staticflickr.com/65535/51222672590_818823e7f9.jpg"><img src="https://live.staticflickr.com/65535/51222672590_818823e7f9.jpg" alt="" width="500"></a>
 </figure>
 
+---
 ## Flowchart
 
 <figure>
