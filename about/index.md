@@ -22,10 +22,11 @@ modified: 2021-02-02
 > **Research Topic:** <br />
 *Holographic Approach to Thermalization inGeneral Anisotropic Theories*
 
-
 ---
+
 ## Publication
 P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
+
 ---
 
 ## Excellent Subjects
