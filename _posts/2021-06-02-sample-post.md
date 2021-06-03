@@ -58,17 +58,17 @@ plt.show()
 </figure>
 
 ## Setup
-We consider scalar field $\phi$ only dependent on holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
+We consider scalar field <img src="https://render.githubusercontent.com/render/math?math=\phi"> only dependent on holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)\end{equation}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)\end{equation*}">
 
 in asymptotic AdS black hole background
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)\end{equation}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)\end{equation*}">
 
 where emblackening function have following properties
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle h(0)=1\qquad\text{and}\qquad h(1)=0\qquad\left(\text{For simplicity, we set}\quadz_h=1\right) \end{equation}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle h(0)=1\qquad\text{and}\qquad h(1)=0\qquad\left(\text{For simplicity, we set}\quadz_h=1\right) \end{equation*}">
 
 Specially,
 
