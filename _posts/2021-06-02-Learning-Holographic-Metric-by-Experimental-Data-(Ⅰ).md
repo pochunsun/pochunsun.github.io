@@ -60,7 +60,7 @@ plt.show()
 ---
 
 ## Setup
-We consider scalar field <img src="https://render.githubusercontent.com/render/math?math=\phi"> only dependent on holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
+We consider the scalar field <img src="https://render.githubusercontent.com/render/math?math=\phi"> only dependent on the holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)\end{equation*}">
 
@@ -68,7 +68,7 @@ in asymptotic AdS black hole background
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle ds^2=\frac{1}{z^2}\left(-h(z)dt^2 %2B\frac{dz^2}{h(z)} %2B\sum _{i=1}^n dx_i^2\right)\end{equation*}">
 
-where emblackening function have following properties
+where the emblackening function have following properties
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle h(0)=1\qquad\text{and}\qquad h(1)=0\qquad\left(\text{For simplicity, we set}\quadz_h=1\right) \end{equation*}">
 
@@ -86,7 +86,7 @@ The EoM for <img src="https://render.githubusercontent.com/render/math?math=\phi
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle z^2 h(z) \phi^{''}(z) %2B \left(z^2 h^{'}(z)-2 z h(z)\right) \phi^{'}(z)-m^2 \phi -\frac{\delta V(\phi )}{\delta \phi }=0\end{equation*}">
 
-Now we're wanna let <img src="https://render.githubusercontent.com/render/math?math=g_{11}=1">. Consider the following coordinate transformation
+Now, we're wanna let <img src="https://render.githubusercontent.com/render/math?math=g_{11}=1">. Consider the following coordinate transformation
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle d\eta=-\frac{dz}{z \sqrt{h(z)}}\quad ,\qquad \eta =\int _z^{z_h=1}\frac{dz}{z \sqrt{h(z)}}\end{equation*}">
 
@@ -230,7 +230,7 @@ while len(phi_list_pos_exp)<num_training_data or len(phi_list_neg_exp)<num_train
 ```
 ---
 
-## Generating Data by Real Metric
+## Generating Data by the Real Metric
 Set <img src="https://render.githubusercontent.com/render/math?math=%24%5Cepsilon%20%3D0.1%24">
 
 True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%5Cleq%20%5Cepsilon%24">     <img src="https://render.githubusercontent.com/render/math?math=%24%5Cqquad%24">       False: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%3E%5Cepsilon%24">
@@ -245,3 +245,5 @@ True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%2
 <figure>
 <a href="https://live.staticflickr.com/65535/51221599581_8f6f9ec585_w.jpg"><img src="https://live.staticflickr.com/65535/51221599581_8f6f9ec585_w.jpg" alt="" width="500"></a>
 </figure>
+
+<a href="{{ site.url }}/_posts/2021-06-02-Learning-Holographic-Metric-by-Experimental-Data-(Ⅱ).md/" class="btn btn-info">Theme Setup</a>
