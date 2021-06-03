@@ -241,25 +241,24 @@ True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%2
 
 ## Assumptions of Reproduced Metric <img src="https://render.githubusercontent.com/render/math?math=%24%5CLarge%20H_R(%5Ceta%20)%24">
 
-<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta)%5Cin%20%5Cmathcal%7BC%7D_%7B%5Cinfty%20%7D%5Cqquad%5Cforall%20%5Ceta%20%5Cgeq%200%0A%5Cend%7Bequation*%7D">
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%5Cin%20%5Cmathcal%7BC%7D_%7B%5Cinfty%20%7D%5Cqquad%5Cforall%20%5Ceta%20%5Cgeq%200%5Cqquad%5Cqquad%5Cqquad(A1)%0A%5Cend%7Bequation*%7D">
 
-<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%5Cto%20%5Cfrac%7B1%7D%7B%5Ceta%20%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%5Cto%200%5Cqquad%5Cqquad%5Cqquad(A1)%0A%5Cend%7Bequation*%7D">
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%5Cto%20%5Cfrac%7B1%7D%7B%5Ceta%20%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%5Cto%200%5Cqquad%5Cqquad%5Cqquad(A2)%0A%5Cend%7Bequation*%7D">
 
-$$\tag{A3}
-H_R(\eta )\to (n+1)~~~\text{as}~~~\eta\to \infty~~~(\text{in } (n+2)\text{-dimensional spacetime})
-$$
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%5Cto%20(n%2B1)%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%5Cto%20%5Cinfty%5Cquad(%5Ctext%7Bin%7D%5C%2C(n%2B2)%5Ctext%7B-dimensional%20spacetime%7D)%5Cqquad%5Cqquad%5Cqquad(A3)%0A%5Cend%7Bequation*%7D">
+
 Thus we are able to say
-$$
-H_R(\eta )=H^{\text{ir}}{}_R(\eta )\text{:=}\frac{c_{-1}}{\eta }+c_0+c_1 \eta +c_2 \eta ^2+\text{...}=\overset{\rightharpoonup }{c}.\overset{\rightharpoonup }{\eta }_{\text{ir}}~~~\text{as}~~\eta <\eta ^*\\
-H_R(\eta )=H^{\text{uv}}{}_R(\eta )\text{:=}=d_0+d_1 \eta +d_2 \eta ^2+\text{...}=\overset{\rightharpoonup }{d}.\overset{\rightharpoonup }{\eta }_{\text{uv}}~~~\text{as}~~\eta >\eta ^*
-$$
+
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%3DH%5E%7B%5Ctext%7Bir%7D%7D%7B%7D_R(%5Ceta%20)%5Cequiv%5Cfrac%7Bc_%7B-1%7D%7D%7B%5Ceta%20%7D%2Bc_0%2Bc_1%20%5Ceta%20%2Bc_2%20%5Ceta%20%5E2%2B%5Ctext%7B...%7D%3D%5Coverset%7B%5Crightharpoonup%20%7D%7Bc%7D.%5Coverset%7B%5Crightharpoonup%20%7D%7B%5Ceta%20%7D_%7B%5Ctext%7Bir%7D%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%20%3C%5Ceta%20%5E*%5Cend%7Bequation*%7D">
+
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%3DH%5E%7B%5Ctext%7Buv%7D%7D%7B%7D_R(%5Ceta%20)%5Cequiv%20d_0%2Bd_1%20%5Ceta%20%2Bd_2%20%5Ceta%20%5E2%2B%5Ctext%7B...%7D%3D%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D.%5Coverset%7B%5Crightharpoonup%20%7D%7B%5Ceta%20%7D_%7B%5Ctext%7Buv%7D%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%20%3E%5Ceta%20%5E*%0A%5Cend%7Bequation*%7D">
+
 where $\eta ^*$  is matching point. ($\eta ^*$=0.5 in our code) Due to (A2),
-$$
-c_{-1}=1 ~~~\text{and}~~~~ c_0=0
-$$
-From (A3), we can fix two of coefficient $\overset{\rightharpoonup }{d}=(d_0, d_1, d_2, ...)$. Moreover, because of (A1), we have matching condition
-$$
-H^{\text{ir}}{}_R\left(\eta ^*\right)=H^{\text{uv}}{}_R\left(\eta ^*\right),~~~\frac{\partial H^{\text{ir}}{}_R\left(\eta ^*\right)}{\partial \eta }=\frac{\partial H^{\text{uv}}{}_R\left(\eta ^*\right)}{\partial \eta },\text{...}\text{...}
-$$
+
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0Ac_%7B-1%7D%3D1%20%5Cqquad%5Ctext%7Band%7D%5Cqquad%20c_0%3D0%0A%5Cend%7Bequation*%7D">
+
+From (A3), we can fix two of coefficient $\overset{\rightharpoonup }{d}=(d_0, d_1, d_2, ...)$. Moreover, because of (A1), we have matching conditions
+
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH%5E%7B%5Ctext%7Bir%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%3DH%5E%7B%5Ctext%7Buv%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%2C%5Cquad%5Cfrac%7B%5Cpartial%20H%5E%7B%5Ctext%7Bir%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%7D%7B%5Cpartial%20%5Ceta%20%7D%3D%5Cfrac%7B%5Cpartial%20H%5E%7B%5Ctext%7Buv%7D%7D_R%5Cleft(%5Ceta%20%5E*%5Cright)%7D%7B%5Cpartial%20%5Ceta%20%7D%2C%5Ctext%7B...%7D%5Ctext%7B...%7D%0A%5Cend%7Bequation*%7D">
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
