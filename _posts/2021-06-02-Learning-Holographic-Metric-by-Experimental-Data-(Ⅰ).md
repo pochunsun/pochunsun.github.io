@@ -246,4 +246,4 @@ True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%2
 <a href="https://live.staticflickr.com/65535/51221599581_8f6f9ec585_w.jpg"><img src="https://live.staticflickr.com/65535/51221599581_8f6f9ec585_w.jpg" alt="" width="500"></a>
 </figure>
 
-<a href="{{ site.url }}/_posts/2021-06-02-Learning-Holographic-Metric-by-Experimental-Data-(Ⅱ).md/" class="btn btn-info">Theme Setup</a>
+<a href="{{ site.url }}/Learning-Holographic-Metric-by-Experimental-Data-(Ⅱ)/" class="btn btn-info">Theme Setup</a>
