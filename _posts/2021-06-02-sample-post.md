@@ -58,11 +58,8 @@ plt.show()
 </figure>
 
 ## Setup
-We consider scalar field $\phi$ only dependent on holographic direction $z$
-$$ \tag{1}
-\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)
-$$
-
+We consider scalar field $\phi$ only dependent on holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)\end{equation}">
 in asymptotic AdS black hole background
 $$ \tag{2}
 ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)
@@ -86,8 +83,6 @@ in RN case. Note that, in extremal case, $Q=\sqrt{3}$.
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle\sum_{n=0}^\infty\frac{1}{2^n}\end{equation}">
-<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\label{A1}\sum_{n=0}^\infty\frac{1}{2^n}\end{equation}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum_{n=0}^\infty\frac{1}{2^n}">
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
