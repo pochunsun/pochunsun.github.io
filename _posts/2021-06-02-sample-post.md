@@ -156,5 +156,24 @@ plt.show()
 <a href="https://live.staticflickr.com/65535/51222259119_b1b528594e.jpg"><img src="https://live.staticflickr.com/65535/51222259119_b1b528594e.jpg" alt="" width="500"></a>
 </figure>
 
+## Activation Function
+### _Runge-Kutta Fourth-Order_
+From EoM, let's say
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle \tilde{f}(\eta ,\phi ,\Pi )\equiv \frac{\partial \Pi }{\partial \eta }=-H_R\Pi+m^2 \phi+\frac{\delta V(\phi )}{\delta \phi }\end{equation*}">
+
+The activation function at each layer is
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\displaystyle \phi (\Delta \eta +\eta )=\phi (\eta )+\Delta \eta  \left(\Pi (\eta )+\frac{1}{3} \left(k_1+k_2+k_3\right)\right)\\
+\Pi (\Delta \eta +\eta )=\Pi (\eta )+\frac{1}{3} \left(k_1+2 k_2+2 k_3+k_4\right)\end{align*}">
+
+where $k_1, k_2, k_3, k_4$ are defined by
+$$
+k_1\equiv\frac{\Delta \eta }{2}  \tilde{f}(\eta ,\phi ,\Pi )\\
+k_2\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\frac{\Delta \eta }{2} ,\phi+k ,\Pi+k_1 \right),\qquad k\equiv\frac{\Delta \eta }{2}  \left(\Pi+\frac{k_1}{2} \right)\\
+k_3\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\frac{\Delta \eta }{2} ,\phi+k ,\Pi+k_2 \right)\\
+k_4\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\Delta \eta ,\phi+\ell  ,\Pi+2 k_3 \right),\qquad\ell \equiv\Delta \eta  \left(k_3+\Pi \right)
+$$
+
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
