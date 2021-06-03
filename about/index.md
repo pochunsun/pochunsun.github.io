@@ -27,7 +27,7 @@ modified: 2021-02-02
 ## Publication
 P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
 
-
+## Excellent Subjects
 | The Courses I Took as I Was an Undergraduate Student (The Course Opened by Dept. of) |  Grade |  Ranking/Number of People  |
 |--------------------------------------------------------------------------------|--------|----------------------------|
 |General Physics (I)/(II)                                                        |  A/A+  |  3/37  1/46                | 
@@ -47,8 +47,8 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 |Topology (Applied Mathematics) | A+    | 1/31 |
 |Functional Analysis (I) (Applied Mathematics) [Graduate Course] | A     | 1/10 |
 |Geometry (Applied Mathematics) | A-   | 2/7 |
-|Electronics (I) (Electrical Engineering)& A+& 1/103  |
-|Applied Electronics (Optoelectronic Engineering)& A+&1/17  |
+|Electronics (I) (Electrical Engineering)   | A+   |   1/103  |
+|Applied Electronics (Optoelectronic Engineering)  | A+    |  1/17  |
 
 |The courses I took as I am a graduate student |  Grade  |   Ranking/Number of People  |
 |------------------------------------------------|--------|----------------------------|
