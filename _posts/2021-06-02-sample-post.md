@@ -251,7 +251,7 @@ Thus we are able to say
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%3DH%5E%7B%5Ctext%7Bir%7D%7D_R(%5Ceta%20)%5Cequiv%5Cfrac%7Bc_%7B-1%7D%7D%7B%5Ceta%20%7D%2Bc_0%2Bc_1%20%5Ceta%20%2Bc_2%20%5Ceta%20%5E2%2B%5Ctext%7B...%7D%3D%5Coverset%7B%5Crightharpoonup%20%7D%7Bc%7D.%5Coverset%7B%5Crightharpoonup%20%7D%7B%5Ceta%20%7D_%7B%5Ctext%7Bir%7D%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%20%3C%5Ceta%20%5E*%0A%5Cend%7Bequation*%7D">
 
-<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%3DH%5E%7B%5Ctext%7Buv%7D%7D_R(%5Ceta%20)%5Cequiv%20d_0%2Bd_1%20%5Ceta%20%2Bd_2%20%5Ceta%20%5E2%2B%5Ctext%7B...%7D%3D%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D.%5Coverset%7B%5Crightharpoonup%20%7D%7B%5Ceta%20%7D_%7B%5Ctext%7Buv%7D%7D~~~%5Ctext%7Bas%7D~~%5Ceta%20%3E%5Ceta%20%5E*%0A%5Cend%7Bequation*%7D">
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%3DH%5E%7B%5Ctext%7Buv%7D%7D_R(%5Ceta%20)%5Cequiv%20d_0%2Bd_1%20%5Ceta%20%2Bd_2%20%5Ceta%20%5E2%2B%5Ctext%7B...%7D%3D%5Coverset%7B%5Crightharpoonup%20%7D%7Bd%7D.%5Coverset%7B%5Crightharpoonup%20%7D%7B%5Ceta%20%7D_%7B%5Ctext%7Buv%7D%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%20%3E%5Ceta%20%5E*%0A%5Cend%7Bequation*%7D">
 
 where $\eta ^*$  is matching point. ($\eta ^*$=0.5 in our code) Due to (A2),
 
