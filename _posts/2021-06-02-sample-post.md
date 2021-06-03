@@ -471,26 +471,18 @@ print(model_fitting.state_dict())
 **Pro-tip:** Delet
 {: .notice}
 
-`loss_epoch= 12.358866596221924`
-`loss_epoch= 9.669654583930969`
 
-`loss_epoch= 7.773796164989472`
-
-`loss_epoch= 6.478020656108856`
-
-`loss_epoch= 5.501032030582428`
-
+{:loss_epoch= 12.358866596221924
+loss_epoch= 9.669654583930969
+loss_epoch= 7.773796164989472
+loss_epoch= 6.478020656108856
+loss_epoch= 5.501032030582428
 loss_epoch= 4.766412723064422
-
 loss_epoch= 4.42119995355606
-
 loss_epoch= 4.286863183975219
-
 loss_epoch= 4.241568195819855
-
 loss_epoch= 4.228258776664734
-
-OrderedDict([('training_data_ir', tensor([[ 3.8222],[-0.8429]]))])
+OrderedDict([('training_data_ir', tensor([[ 3.8222],[-0.8429]]))]).notice}
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
 {: .notice}
