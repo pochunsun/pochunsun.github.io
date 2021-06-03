@@ -59,22 +59,22 @@ plt.show()
 
 ## Setup
 We consider scalar field $\phi$ only dependent on holographic direction <img src="https://render.githubusercontent.com/render/math?math=z">
+
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle\mathcal{L}_{\text{matter}}=\sqrt{-\det (g)} \left(-\frac{1}{2} m^2 \phi ^2-V(\phi )-\frac{1}{2} \left(\frac{\partial \phi }{\partial z}\right)^2\right)\end{equation}">
+
 in asymptotic AdS black hole background
-$$ \tag{2}
-ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)
-$$
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle ds^2=\frac{1}{z^2}\left(-h(z)dt^2+\frac{dz^2}{h(z)}+\sum _{i=1}^n dx_i^2\right)\end{equation}">
+
 where emblackening function have following properties
-$$ \tag{3}
-h(0)=1 \&   h(1)=0 \left(\text{For simplicity, we set } z_h=1\right)
-$$
 
-Specially, 
-$$\tag{4}
-h(z)=1-z^3-Q^2 z^3+Q^2 z^4
-$$
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle h(0)=1 \&   h(1)=0 \left(\text{For simplicity, we set } z_h=1\right)\end{equation}">
 
-in RN case. Note that, in extremal case, $Q=\sqrt{3}$. 
+Specially,
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{equation}\displaystyle h(z)=1-z^3-Q^2 z^3+Q^2 z^4\end{equation}">
+
+in RN case. Note that, in extremal case, <img src="https://render.githubusercontent.com/render/math?math=Q=\sqrt{3}">.
 
 ```math
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
