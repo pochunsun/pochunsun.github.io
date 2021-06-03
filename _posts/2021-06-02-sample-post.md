@@ -140,6 +140,17 @@ for i in range(0,int(layer)):
 tanh = nn.Tanh()
 print(len(eta_base),eta_base[layer-1],layer)
 ```
-
+```python
+xx=np.arange(0.1, 1.05/scale, 0.05)
+plt.plot(xx,3*np.cosh(3*xx/scale)/np.sinh(3*xx/scale), lw=2, label='$3 coth(3\eta)$')
+plt.plot(xx,H_r(xx), lw=2, label='$H_R(\eta)$')
+plt.title('Reproduced Metric $H(\eta)$')
+plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
+plt.xlabel('$\eta$')
+plt.ylabel('$H_R(\eta)$')
+#plt.tight_layout()
+#plt.savefig("Hr_rnq09_n3.png")
+plt.show()
+```
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
