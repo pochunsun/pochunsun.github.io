@@ -30,8 +30,9 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 ---
 
 ## Excellent Subjects
+### The Courses I Took as I Was an Undergraduate Student
 
-| The Courses I Took as I Was an Undergraduate Student (The Course Opened by Dept. of)        |  Grade |  Ranking/Number of People  |
+| Courses (The Course Opened by Dept. of)                                                     |  Grade |  Ranking/Number of People  |
 |:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |General Physics (I)/(II)                                                                     |  A/A+  |  3/37  1/46                | 
 |:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
@@ -72,8 +73,9 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 |Applied Electronics (Optoelectronic Engineering)                                             | A+     |  1/17                      |
 {: rules="groups"}
 
+### The courses I took as I am a graduate student
 
-|The courses I took as I am a graduate student |  Grade  |   Ranking/Number of People  |
+|  courses                                     |  Grade  |   Ranking/Number of People  |
 |:-------------------------------------------- |:-------:|:---------------------------:|
 |General Relativity                            |  80     | 1/3                         |
 |:-------------------------------------------- |:-------:|:---------------------------:|
