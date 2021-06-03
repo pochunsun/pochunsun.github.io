@@ -74,6 +74,7 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 {: rules="groups"}
 
 ### The courses I took as I am a graduate student
+
 |  courses                                     |  Grade  |   Ranking                   |
 |:-------------------------------------------- |:-------:|:---------------------------:|
 |General Relativity                            |  80     | 1/3                         |
