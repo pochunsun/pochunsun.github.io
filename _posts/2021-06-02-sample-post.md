@@ -179,5 +179,20 @@ where $k_1, k_2, k_3, k_4$ are defined by
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_4\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta+\Delta \eta ,\phi+\ell  ,\Pi+2 k_3 \right),\qquad\ell \equiv\Delta \eta  \left(k_3+\Pi \right)\end{equation*}">
 
 
+<label for="input">Latex equation: </label>
+<!-- <input type="text" name="input"> -->
+<br><textarea rows="10" cols="50" name="input"></textarea>
+<br><br>
+
+<button onClick="toGithubRenderURL()">Encode to github render URL</button>
+<br><br>
+
+<label for="output">The URL is: </label>
+<input type="url" name="output">
+<br><br>
+
+<label for="result">The result is: </label>
+<p id="result"></p>
+
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
