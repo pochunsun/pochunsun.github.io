@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post 
 title: Learning Holographic Metric by Experimental Data (Ⅱ)
-description: "Sample post."
+description: "Sample ."
 tags: [Deep Learning,Pytorch,Holography,AdS/CFT,Entanglement Entropy,Quantum Information]
 image:
   background: triangular.png
   
-modified: 2021-02-02
+modified: 2021-06-03
 ---
 
 ## Assumptions of Reproduced Metric <img src="https://render.githubusercontent.com/render/math?math=%24%5CLarge%20H_R(%5Ceta%20)%24">
