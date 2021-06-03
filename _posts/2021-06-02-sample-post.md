@@ -240,5 +240,26 @@ True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%2
 </figure>
 
 ## Assumptions of Reproduced Metric <img src="https://render.githubusercontent.com/render/math?math=%24%5CLarge%20H_R(%5Ceta%20)%24">
-$\Large H_R(\eta )$
+
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta)%5Cin%20%5Cmathcal%7BC%7D_%7B%5Cinfty%20%7D%5Cqquad%5Cforall%20%5Ceta%20%5Cgeq%200%0A%5Cend%7Bequation*%7D">
+
+<img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation*%7D%0AH_R(%5Ceta%20)%5Cto%20%5Cfrac%7B1%7D%7B%5Ceta%20%7D%5Cquad%5Ctext%7Bas%7D%5Cquad%5Ceta%5Cto%200%5Cqquad%5Cqquad%5Cqquad(A1)%0A%5Cend%7Bequation*%7D">
+
+$$\tag{A3}
+H_R(\eta )\to (n+1)~~~\text{as}~~~\eta\to \infty~~~(\text{in } (n+2)\text{-dimensional spacetime})
+$$
+Thus we are able to say
+$$
+H_R(\eta )=H^{\text{ir}}{}_R(\eta )\text{:=}\frac{c_{-1}}{\eta }+c_0+c_1 \eta +c_2 \eta ^2+\text{...}=\overset{\rightharpoonup }{c}.\overset{\rightharpoonup }{\eta }_{\text{ir}}~~~\text{as}~~\eta <\eta ^*\\
+H_R(\eta )=H^{\text{uv}}{}_R(\eta )\text{:=}=d_0+d_1 \eta +d_2 \eta ^2+\text{...}=\overset{\rightharpoonup }{d}.\overset{\rightharpoonup }{\eta }_{\text{uv}}~~~\text{as}~~\eta >\eta ^*
+$$
+where $\eta ^*$  is matching point. ($\eta ^*$=0.5 in our code) Due to (A2),
+$$
+c_{-1}=1 ~~~\text{and}~~~~ c_0=0
+$$
+From (A3), we can fix two of coefficient $\overset{\rightharpoonup }{d}=(d_0, d_1, d_2, ...)$. Moreover, because of (A1), we have matching condition
+$$
+H^{\text{ir}}{}_R\left(\eta ^*\right)=H^{\text{uv}}{}_R\left(\eta ^*\right),~~~\frac{\partial H^{\text{ir}}{}_R\left(\eta ^*\right)}{\partial \eta }=\frac{\partial H^{\text{uv}}{}_R\left(\eta ^*\right)}{\partial \eta },\text{...}\text{...}
+$$
+
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
