@@ -52,10 +52,11 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 |Geometry (Applied Mathematics)                                                               | A-     | 2/7                        |
 |Electronics (I) (Electrical Engineering)                                                     | A+     |   1/103                    |
 |Applied Electronics (Optoelectronic Engineering)                                             | A+     |  1/17                      |
-
+{: rules="groups"}
 
 |The courses I took as I am a graduate student |  Grade  |   Ranking/Number of People  |
 | -------------------------------------------- | ------- | --------------------------- |
 |General Relativity                            |  80     | 1/3                         |
 |Group Theory and Symmetry                     |  91     |   No Data                   |
 |Classical Mechanics (I)                       |  80     |   No Data                   |
+{: rules="groups"}
