@@ -233,5 +233,11 @@ True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%2
 <a href="https://live.staticflickr.com/65535/51222672590_818823e7f9.jpg"><img src="https://live.staticflickr.com/65535/51222672590_818823e7f9.jpg" alt="" width="500"></a>
 </figure>
 
+## Flowchart
 
+<figure>
+<a href="https://live.staticflickr.com/65535/51221599581_8f6f9ec585_w.jpg"><img src="https://live.staticflickr.com/65535/51221599581_8f6f9ec585_w.jpg" alt="" width="500"></a>
+</figure>
+
+## Assumptions of Reproduced Metric <img src="https://render.githubusercontent.com/render/math?math=%24H_R(%5Ceta%20)%24">
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
