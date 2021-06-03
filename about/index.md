@@ -32,11 +32,15 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 ## Excellent Subjects
 
 | The Courses I Took as I Was an Undergraduate Student (The Course Opened by Dept. of)        |  Grade |  Ranking/Number of People  |
-| ------------------------------------------------------------------------------------------- | ------ | -------------------------- |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |General Physics (I)/(II)                                                                     |  A/A+  |  3/37  1/46                | 
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |Calculus (I)/(II)                                                                            |A+      |  1/73   1/101              |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |Matrices and Vector Analysis                                                                 | A+     | 1/64                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |Introduction to Nanotechnology                                                               | A      | 1/22                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
 |Modern Physics                                                                               |  A+    | 1/47                       |
 |Electricity and Magnetism (I)/(II)                                                           | A+     | 1/68   1/55                |
 |Electromagnetic Waves                                                                        | A+     | 1/23                       |
@@ -55,7 +59,7 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 {: rules="groups"}
 
 |The courses I took as I am a graduate student |  Grade  |   Ranking/Number of People  |
-| -------------------------------------------- | ------- | --------------------------- |
+|:-------------------------------------------- |:-------:|:---------------------------:|
 |General Relativity                            |  80     | 1/3                         |
 |Group Theory and Symmetry                     |  91     |   No Data                   |
 |Classical Mechanics (I)                       |  80     |   No Data                   |
