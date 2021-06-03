@@ -277,6 +277,7 @@ plt.show()
 <figure>
 <a href="https://live.staticflickr.com/65535/51221809556_0bc1bfceef_w.jpg"><img src="https://live.staticflickr.com/65535/51221809556_0bc1bfceef_w.jpg" alt="" width="500"></a>
 </figure>
+
 ```python
 plt.plot(np.array(eta_base),H_r(np.array(eta_base)), lw=5, label='True Metric')
 plt.plot(fitting_results_exp_eta,fitting_results_exp_h, lw=5, label='After Learning')
