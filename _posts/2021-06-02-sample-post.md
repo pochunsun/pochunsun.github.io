@@ -178,7 +178,55 @@ where <img src="https://render.githubusercontent.com/render/math?math=%24k_1%2C%
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{equation*}\displaystyle k_4\equiv\frac{\Delta \eta}{2}   \tilde{f}\left(\eta %2B\Delta \eta ,\phi %2B\ell  ,\Pi %2B 2 k_3 \right),\qquad\ell \equiv\Delta \eta  \left(k_3 %2B \Pi \right)\end{equation*}">
 
+```python
+phi_list_pos_exp=[]
+pi_list_pos_exp=[]
+phi_list_neg_exp=[]
+pi_list_neg_exp=[]
+phi_exp_data=[]
+pi_exp_data=[]
+train_data_y=[]
+np.random.seed(1)
+while len(phi_list_pos_exp)<num_training_data or len(phi_list_neg_exp)<num_training_data :
+        eta=uv_cutoff
+        phi_ini=np.random.uniform(low=0, high=1.7, size=(num_training_data*50)) #random.uniform(0,1)
+        pi_ini=np.random.uniform(low=-0.2, high=0.7, size=(num_training_data*50))*scale#random.uniform(-1.7,0.01)
+        phi=phi_ini
+        pi=pi_ini
+        for i in range(0,int(layer-1)):
+            k1=delta_eta*ff(np.array([eta]),phi,pi)/2
+            k=delta_eta*(k1/2+pi)/2
+            k2=delta_eta*ff(np.array([eta+delta_eta/2]),phi+k,pi+k1)/2
+            k3=delta_eta*ff(np.array([eta+delta_eta/2]),phi+k,pi+k2)/2
+            ell=delta_eta*(pi+k3)
+            k4=delta_eta*ff(np.array([eta+delta_eta]),phi+k,pi+2*k3)/2
+            
+            phi_new=phi+delta_eta*(pi+(k1+k2+k3)/3)
+            pi_new=pi+(k1+2*k2+2*k3+k4)/3
+            eta+=delta_eta
+            phi=phi_new
+            pi=pi_new
+        for j in range(0,len(phi)):
+            final_layer=t(pi[j])
+            if final_layer>0.5: #2*pi/eta-m2*phi-delta_v(phi)
+                if len(phi_list_neg_exp)<num_training_data:
+                    phi_list_neg_exp.append(phi_ini[j])
+                    pi_list_neg_exp.append(pi_ini[j])
+                    phi_exp_data.append(phi_ini[j])
+                    pi_exp_data.append(pi_ini[j])
+                    train_data_y.append(final_layer) #false t(pi)=1
+            else: 
+                if len(phi_list_pos_exp)<num_training_data:
+                    phi_list_pos_exp.append(phi_ini[j])
+                    pi_list_pos_exp.append(pi_ini[j])
+                    phi_exp_data.append(phi_ini[j])
+                    pi_exp_data.append(pi_ini[j])
+                    train_data_y.append(final_layer) #true t(pi)=0
+                    #print(len(train_data_y))
+```
+## Generating Data by Real Metric
+Set <img src="https://render.githubusercontent.com/render/math?math=%24%5Cepsilon%20%3D0.1%24">
 
-
+True: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%5Cleq%20%5Cepsilon%24">            False: <img src="https://render.githubusercontent.com/render/math?math=%24%5CPi%20%3E%5Cepsilon%24">
 
 [1] K. Hashimoto, S. Sugishita, A. Tanaka and A. Tomiya, *Deep Learning and AdS/CFT,* [*Phys. Rev. D* **98**, 106014 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019)
