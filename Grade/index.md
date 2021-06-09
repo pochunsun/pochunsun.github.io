@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Excellent Subjects
-description: "The Courses I Took as I Was an Undergraduate Student"
+description: "The Courses I Took as I was an Undergraduate Student"
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
@@ -9,7 +9,7 @@ image:
 comments: false
 ---
 
-### The Courses I Took as I Was an Undergraduate Student
+### The Courses I Took as I was an Undergraduate Student
 
 | Courses (The Course Opened by Dept. of)                                                     |  Grade |  Ranking                   |
 |:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
