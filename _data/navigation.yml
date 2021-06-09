@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: _grade
-  url: /_grade/
+- title: Grade
+  url: /Grade/
 
 #- title: External Link
 #  url: http://mademistakes.com
