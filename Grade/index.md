@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Theme Setup
-description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
+title: Excellent Subjects
+description: "The Courses I Took as I Was an Undergraduate Student"
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
