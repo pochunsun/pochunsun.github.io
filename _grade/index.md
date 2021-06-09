@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Post with a Background Image
-description: "Sample post with a background image CSS override."
+title: Theme Setup
+description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
 image:
-  background: triangular.png
+  feature: abstract-11.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
+modified: 2016-06-01T15:14:43-04:00
 ---
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
