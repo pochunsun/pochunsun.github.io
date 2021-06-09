@@ -11,7 +11,7 @@ modified: 2021-02-02
 ### M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
 
 > **Thesis Title:** <br />
-*Time Evolution of the Holographic Entanglement Entropy during Black Hole Thermalization*
+*Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization*
 
 <a href="{{ site.url }}/Grade-master/" class="btn btn-info">Excellent Subjects</a> 
 
