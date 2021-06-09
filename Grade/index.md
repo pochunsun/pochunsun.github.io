@@ -7,7 +7,6 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2016-06-01T15:14:43-04:00
 ---
 
 ### The Courses I Took as I Was an Undergraduate Student
