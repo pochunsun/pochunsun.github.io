@@ -9,7 +9,7 @@ image:
 comments: false
 ---
 
-### The courses I took as I was a graduate student
+### The Courses I Took as I was a Graduate Student
 
 |  courses                                     |  Grade  |   Ranking                   |
 |:-------------------------------------------- |:-------:|:---------------------------:|
