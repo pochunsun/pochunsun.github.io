@@ -10,15 +10,45 @@ share: true
 modified: 2016-06-01T15:14:43-04:00
 ---
 
-Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+### The Courses I Took as I Was an Undergraduate Student
 
-```yaml
-image:
-  background: filename.png
-```
-
-This little bit of YAML makes the assumption that your background image asset is in the `/images` folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.
-
-If you want to set a background image for the entire site just add `background: filename.png` to your `_config.yml` and BOOM --- background images on every page!
-
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice">Background images from <span property="dct:title">Subtle Patterns</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://subtlepatterns.com">Subtle Patterns</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
+| Courses (The Course Opened by Dept. of)                                                     |  Grade |  Ranking                   |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|General Physics (I)/(II)                                                                     |  A/A+  |  3/37  1/46                | 
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Calculus (I)/(II)                                                                            |A+      |  1/73   1/101              |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Matrices and Vector Analysis                                                                 | A+     | 1/64                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Introduction to Nanotechnology                                                               | A      | 1/22                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Modern Physics                                                                               |  A+    | 1/47                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Electricity and Magnetism (I)/(II)                                                           | A+     | 1/68   1/55                |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Electromagnetic Waves                                                                        | A+     | 1/23                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Classical Mechanics (I)/(II)                                                                 |  A+/A  | 1/52  2/15                 |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Quantum Mechanics [Graduate Course]                                                          | A+     | 1/15                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Statistical Mechanics [Graduate Course]                                                      | A+     | 1/7                        |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Computational Physics (I)/(II) [Graduate Course]                                             | A+/A   | 1/27    3/24               |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Linear Algebra (I) (Applied Mathematics)                                                     | A+     | 1/50                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Advanced Calculus(I)/(II) (Applied Mathematics)                                              | A+     | 1/72  1/61                 |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Numerical Methods (Applied Mathematics)                                                      | A+     | 1/47                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Topology (Applied Mathematics)                                                               | A+     | 1/31                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Functional Analysis (I) (Applied Mathematics) [Graduate Course]                              | A      | 1/10                       |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Geometry (Applied Mathematics)                                                               | A-     | 2/7                        |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Electronics (I) (Electrical Engineering)                                                     | A+     |   1/103                    |
+|:------------------------------------------------------------------------------------------- |:------:|:--------------------------:|
+|Applied Electronics (Optoelectronic Engineering)                                             | A+     |  1/17                      |
+{: rules="groups"}
