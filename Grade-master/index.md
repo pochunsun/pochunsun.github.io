@@ -19,3 +19,5 @@ comments: false
 |:-------------------------------------------- |:-------:|:---------------------------:|
 |Classical Mechanics (I)                       |  80     |   No Data                   |
 {: rules="groups"}
+
+When I was an undergraduate student, I have more science credits than other people because I like to take other departments' or master’s courses in physics as general education courses. Since I took many master’s courses before I’m a graduate student so that more than half of credits of master’s courses can be waived. Thus, I just need to take the few courses in master, and I have more time to do research. Nevertheless, I still went to audit the courses I'm interested in. e.g. Quantum Mechanics (I)/(II) and Quantum Field Theory.
