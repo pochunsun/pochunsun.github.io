@@ -13,6 +13,8 @@ modified: 2021-02-02
 > **Thesis Title:** <br />
 *Time Evolution of the Holographic Entanglement Entropy during Black Hole Thermalization*
 
+<a href="{{ site.url }}/_grade/" class="btn btn-info">Theme Setup</a> 
+
 
 ### B.S. in Physics, [Natl. Dong Hwa U](https://phys.ndhu.edu.tw/).
 - Program of Theoretical and Computational Physics
