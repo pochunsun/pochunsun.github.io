@@ -8,14 +8,14 @@ comments: false
 modified: 2021-02-02
 ---
 # Experience
-## [<font color=Blue>Cyntec</font>](http://www.cyntec.com/) ([Delta Electronics Group](https://www.deltaww.com/en-US/index))
+## [<font color=#800080>Cyntec</font>](http://www.cyntec.com/) ([<font color=#800080>Delta Electronics Group</font>](https://www.deltaww.com/en-US/index))
 (Jul 2021 - Present)<br> 
 ### Electromagnetic Simulation R&D Engineer
 
 ---
 
 # Education
-## <font color=Blue>M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).</font>
+## <font color=#800080>M.S. in Physics</font>, [<font color=#800080>Natl. Central U</font>](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
 (Sep 2019 - Jun 2021)<br> 
 > **Thesis Title:** <br />
 *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization*
@@ -23,7 +23,7 @@ modified: 2021-02-02
 <a href="{{ site.url }}/Grade-master/" class="btn btn-info">Excellent Subjects</a> 
 
 
-## <font color=Blue>B.S. in Physics, [Natl. Dong Hwa U](https://phys.ndhu.edu.tw/).</font>
+## <font color=#800080>B.S. in Physics</font>, [<font color=#800080>Natl. Dong Hwa U</font>](https://phys.ndhu.edu.tw/).
 (Sep 2015 - Jun 2019)<br> 
 - Program of Theoretical and Computational Physics
 - Program of Nano Science and Optoelectronics
