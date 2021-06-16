@@ -11,6 +11,8 @@ modified: 2021-02-02
 ### [Cyntec](http://www.cyntec.com/) ([Delta Electronics Group](https://www.deltaww.com/en-US/index))
 **Electromagnetic Simulation R&D Engineer**
 
+---
+
 # Education
 ### M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/). (Sep 2019 -Jun 2021)<br> 
 > **Thesis Title:** <br />
