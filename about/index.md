@@ -14,8 +14,8 @@ modified: 2021-02-02
 
 ---
 
-# <font color=orange>Education</font>
-## <font color=blue>M.S. in Physics</font>, [<font color=blue>Natl. Central U</font>](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
+# <font color=black>Education</font>
+## <font color=black>M.S. in Physics</font>, [<font color=black>Natl. Central U</font>](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
 (Sep 2019 - Jun 2021)<br> 
 > **Thesis Title:** <br />
 *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization*
@@ -23,7 +23,7 @@ modified: 2021-02-02
 <a href="{{ site.url }}/Grade-master/" class="btn btn-info">Excellent Subjects</a> 
 
 
-## <font color=blue>B.S. in Physics</font>, [<font color=blue>Natl. Dong Hwa U</font>](https://phys.ndhu.edu.tw/).
+## <font color=black>B.S. in Physics</font>, [<font color=black>Natl. Dong Hwa U</font>](https://phys.ndhu.edu.tw/).
 (Sep 2015 - Jun 2019)<br> 
 - Program of Theoretical and Computational Physics
 - Program of Nano Science and Optoelectronics
@@ -41,12 +41,12 @@ modified: 2021-02-02
 
 ---
 
-# <font color=orange>Publication</font>
+# <font color=black>Publication</font>
 P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
 
 ---
 
-# <font color=orange>Programming Language</font>
+# <font color=black>Programming Language</font>
 - Mathematica
 - Python(Pytorch)
 - MATLAB
