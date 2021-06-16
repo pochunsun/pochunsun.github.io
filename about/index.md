@@ -7,17 +7,19 @@ image:
 comments: false
 modified: 2021-02-02
 ---
+# Experience
+### [Cyntec](http://www.cyntec.com/) ([Delta Electronics Group](https://www.deltaww.com/en-US/index))
+**Electromagnetic Simulation R&D Engineer**
+
 # Education
-### M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
-(Sep 2019 -Jun 2021)<br> 
+### M.S. in Physics, [Natl. Central U](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/). (Sep 2019 -Jun 2021)<br> 
 > **Thesis Title:** <br />
 *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization*
 
 <a href="{{ site.url }}/Grade-master/" class="btn btn-info">Excellent Subjects</a> 
 
 
-### B.S. in Physics, [Natl. Dong Hwa U](https://phys.ndhu.edu.tw/).
-(Sep 2015 -Jun 2019)<br> 
+### B.S. in Physics, [Natl. Dong Hwa U](https://phys.ndhu.edu.tw/). (Sep 2015 -Jun 2019)<br> 
 - Program of Theoretical and Computational Physics
 - Program of Nano Science and Optoelectronics
 - Minor: Division of Mathematical Science, Dept. of Applied Mathematics
