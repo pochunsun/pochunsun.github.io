@@ -9,7 +9,7 @@ modified: 2021-02-02
 ---
 # Experience
 ## [Cyntec](http://www.cyntec.com/) ([Delta Electronics Group](https://www.deltaww.com/en-US/index))
-(Jun 2021 - )<br> 
+(Jun 2021 - Present)<br> 
 **Electromagnetic Simulation R&D Engineer**
 
 ---
