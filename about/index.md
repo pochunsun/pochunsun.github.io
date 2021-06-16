@@ -21,10 +21,15 @@ modified: 2021-02-02
 - Program of Nano Science and Optoelectronics
 - Minor: Division of Mathematical Science, Dept. of Applied Mathematics
 
+*Activities and societies:*
+【Director of Student Association of Dept. of Physics】,【Wind Ensemble, Dept. of Music】, 【Wind Ensemble Club】
+
 > **Research Topic:** <br />
 *Holographic Approach to Thermalization inGeneral Anisotropic Theories*
 
 <a href="{{ site.url }}/Grade/" class="btn btn-info">Excellent Subjects</a> 
+
+
 
 ---
 
