@@ -14,7 +14,7 @@ modified: 2021-02-02
 
 ---
 
-# Education
+# <font color=orange>Education</font>
 ## <font color=blue>M.S. in Physics</font>, [<font color=blue>Natl. Central U</font>](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
 (Sep 2019 - Jun 2021)<br> 
 > **Thesis Title:** <br />
@@ -41,12 +41,12 @@ modified: 2021-02-02
 
 ---
 
-# Publication
+# <font color=orange>Publication</font>
 P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
 
 ---
 
-# Programming Language
+# <font color=orange>Programming Language</font>
 - Mathematica
 - Python(Pytorch)
 - MATLAB
