@@ -7,8 +7,8 @@ image:
 comments: false
 modified: 2021-02-02
 ---
-# <font color=orange>Experience</font>
-## [<font color=blue>Cyntec</font>](http://www.cyntec.com/) ([<font color=blue>Delta Electronics Group</font>](https://www.deltaww.com/en-US/index))
+# <font color=black>Experience</font>
+## [<font color=black>Cyntec</font>](http://www.cyntec.com/) ([<font color=black>Delta Electronics Group</font>](https://www.deltaww.com/en-US/index))
 (Jul 2021 - Present)<br> 
 #### Electromagnetic Simulation R&D Engineer
 
