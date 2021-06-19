@@ -33,7 +33,7 @@ modified: 2021-02-02
 【Director of Student Association of Dept. of Physics】,【Wind Ensemble, Dept. of Music】, 【Wind Ensemble Club】
 
 > **Research Topic:** <br />
-*Holographic Approach to Thermalization inGeneral Anisotropic Theories*
+*Holographic Approach to Thermalization in General Anisotropic Theories*
 
 <a href="{{ site.url }}/Grade/" class="btn btn-info">Excellent Subjects</a> 
 
