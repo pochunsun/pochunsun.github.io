@@ -42,6 +42,10 @@ modified: 2021-02-02
 ---
 
 # <font color=black>Publication</font>
+P.-C. Sun, *The Influence of Angular Momentum and Chemical Potential on Holographic Entanglement Entropy,* [[arXiv:2107.08215 [hep-th]](https://inspirehep.net/literature/1887047)]
+
+P.-C. Sun, *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization,* [[Master National Central University [Thesis]](https://inspirehep.net/literature/1886830)]
+
 P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
 
 ---
