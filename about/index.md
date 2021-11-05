@@ -10,7 +10,10 @@ modified: 2021-02-02
 # <font color=black>Experience</font>
 ## [<font color=black>Cyntec</font>](http://www.cyntec.com/) ([<font color=black>Delta Electronics Group</font>](https://www.deltaww.com/en-US/index))
 (Jul 2021 - Present)<br> 
-#### Electromagnetic Simulation R&D Engineer
+#### R&D Engineer
+- Electromagnetic Simulation
+- Power Magnetic Devices Designer (Especially for EV/HEV )
+- Technology Development
 
 ---
 
@@ -33,7 +36,9 @@ modified: 2021-02-02
 【Director of Student Association of Dept. of Physics】,【Wind Ensemble, Dept. of Music】, 【Wind Ensemble Club】
 
 > **Research Topic:** <br />
-*Holographic Approach to Thermalization in General Anisotropic Theories*
+*[Holographic Approach to Thermalization in General Anisotropic Theories](https://www.natureindex.com/article/10.1007/jhep03(2021)164)*
+
+**Our Paper was selected for inclusion in the Nature Index.**
 
 <a href="{{ site.url }}/Grade/" class="btn btn-info">Excellent Subjects</a> 
 
@@ -51,6 +56,7 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 ---
 
 # <font color=black>Programming Language</font>
+- Ansys Maxwell 
 - Mathematica
 - Python(Pytorch)
 - MATLAB
