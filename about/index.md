@@ -38,7 +38,7 @@ modified: 2021-02-02
 > **Research Topic:** <br />
 *[Holographic Approach to Thermalization in General Anisotropic Theories](https://www.natureindex.com/article/10.1007/jhep03(2021)164)*
 
-**Our Paper was selected for inclusion in the Nature Index.**
+**Our paper was selected for inclusion in the Nature Index.**
 
 <a href="{{ site.url }}/Grade/" class="btn btn-info">Excellent Subjects</a> 
 
