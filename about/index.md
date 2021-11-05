@@ -62,6 +62,7 @@ P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in g
 - MATLAB
 - Maple
 - Latex
+- Mathcad
 
 I am expert in using Mathematica or Maple to analyze differential equations, deal with integration problems or tensor calculations, and using Python or MATLAB for numerical computations.
 
