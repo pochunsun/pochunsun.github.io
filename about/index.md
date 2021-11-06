@@ -12,7 +12,7 @@ modified: 2021-02-02
 (Jul 2021 - Present)<br> 
 #### R&D Engineer
 - Technology development
-- Power magnetic devices designer (Especially for EV/HEV )
+- Power magnetic devices design (Especially for the applications of EV/HEV )
 - Electromagnetic simulation
 - Total addressable market analysis
 
