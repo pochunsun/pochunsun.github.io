@@ -11,9 +11,10 @@ modified: 2021-02-02
 ## [<font color=black>Cyntec</font>](http://www.cyntec.com/) ([<font color=black>Delta Electronics Group</font>](https://www.deltaww.com/en-US/index))
 (Jul 2021 - Present)<br> 
 #### R&D Engineer
-- Electromagnetic Simulation
-- Power Magnetic Devices Designer (Especially for EV/HEV )
-- Technology Development
+- Technology development
+- Power magnetic devices designer (Especially for EV/HEV )
+- Electromagnetic simulation
+- Total addressable market analysis
 
 ---
 
