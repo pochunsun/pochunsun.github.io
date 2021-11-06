@@ -47,6 +47,8 @@ modified: 2021-02-02
 ---
 
 # <font color=black>Publication</font>
+P.-C. Sun, *Entanglement Islands from Holographic Thermalization of Rotating Charged Black Hole,* [[arXiv:2108.12557 [hep-th]](https://inspirehep.net/authors/1829882)]
+
 P.-C. Sun, *The Influence of Angular Momentum and Chemical Potential on Holographic Entanglement Entropy,* [[arXiv:2107.08215 [hep-th]](https://inspirehep.net/literature/1887047)]
 
 P.-C. Sun, *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization,* [[Master National Central University [Thesis]](https://inspirehep.net/literature/1886830)]
