@@ -11,10 +11,11 @@ modified: 2021-02-02
 
 (Jul 2021 - Present)<br> 
 #### R&D Engineer
-- Technology development
-- Power magnetic devices design (Especially for the applications of EV/HEV )
-- Electromagnetic simulation
-- Total addressable market analysis
+- Design reactor, power choke(including coupled inductors) for EV/HEV/FCEV
+- Develop automated design for the customized products using Python
+- Advanced study (analytic calculation or simulation of electromagnetic theory, circuit topology)
+- Technology Development
+- Total Addressable Market
 
 ---
 
