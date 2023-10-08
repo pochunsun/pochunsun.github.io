@@ -36,6 +36,7 @@ modified: 2021-02-02
 - Recently, I have involved in numerous projects that are related to OBC+DCDC combined Xfmr, a state-of-the-art concept where we integrate OBC Xfmr and DCDC Xfmr into a single Xfmr. This high-end Xfmr might become a cost-effective solution in the future.
 
 </ol>
+
 ---
 
 # <font color=black>Education</font>
