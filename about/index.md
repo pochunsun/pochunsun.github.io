@@ -18,18 +18,18 @@ modified: 2021-02-02
 - For Xfmr design, it involves a variety of architectures and numerous design parameters (typically they have $\sim 100000$ possible solutions for one customer's requirement).
 - We develop the algorithm with GUI so that engineers can easily choose the optimized cost effective solution from those possible solutions.
 
-<li>Field application engineer (FAE):</li> 
+<li><b> Field application engineer (FAE):</b></li> 
 
 - erving as a communication bridge between our engineering team and global customers.
 - Supporting the technical discussion with global customers.
 - Organizing team members to work on projects.  
 
-<li>Advanced research:</li> 
+<li><b> Advanced research:</b></li> 
 
 - Studying analytic calculations, Electromagnetic theory, circuit topology as well as new design platform.
 
 
-<li>Design engineer for high power magnetics:</li> 
+<li><b> Design engineer for high power magnetics:</b></li> 
   
 - Designing the high power magnetics for automotive applications, such as electrical reactor, transformer, PFC choke, output choke (including coupled inductors) for EV/HEV/FCEV. 
 - I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr.
