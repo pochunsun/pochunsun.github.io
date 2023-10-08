@@ -50,7 +50,7 @@ R&D Engineer (Jul 2021 - Present)<br>
 
 [4] P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
 
-- Our paper [4] was selected for inclusion in the <font color=black>Nature Index</font>.
+- Our paper [4] was selected for inclusion in the **Nature Index**.
 - The paper [1] has the most citations. 
 
 ---
