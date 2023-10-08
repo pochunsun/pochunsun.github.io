@@ -15,7 +15,7 @@ modified: 2021-02-02
 <li><b> Developing automated design by Python:</b></li> 
 
 - I am familiar with Python and proficient in constructing theoretical models and solving mathematical problems.
-- For Xfmr design, it involves a variety of architectures and numerous design parameters (typically they have $\sim 100000$ possible solutions for one customer's requirement).
+- For Xfmr design, it involves a variety of architectures and numerous design parameters (typically it has $\sim 100000$ possible solutions for one customer's requirement).
 - We develop the algorithm with GUI so that engineers can easily choose the optimized cost effective solution from those possible solutions.
 
 <li><b> Field application engineer (FAE):</b></li> 
