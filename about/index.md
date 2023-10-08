@@ -42,14 +42,16 @@ R&D Engineer (Jul 2021 - Present)<br>
 ---
 
 # <font color=black>Publication</font>
-P.-C. Sun, *Entanglement Islands from Holographic Thermalization of Rotating Charged Black Hole,* [[arXiv:2108.12557 [hep-th]](https://inspirehep.net/authors/1829882)]
+[1] P.-C. Sun, *Entanglement Islands from Holographic Thermalization of Rotating Charged Black Hole,* [[arXiv:2108.12557 [hep-th]](https://inspirehep.net/authors/1829882)]
 
-P.-C. Sun, *The Influence of Angular Momentum and Chemical Potential on Holographic Entanglement Entropy,* [[arXiv:2107.08215 [hep-th]](https://inspirehep.net/literature/1887047)]
+[2] P.-C. Sun, *The Influence of Angular Momentum and Chemical Potential on Holographic Entanglement Entropy,* [[arXiv:2107.08215 [hep-th]](https://inspirehep.net/literature/1887047)]
 
-P.-C. Sun, *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization,* [[Master National Central University [Thesis]](https://inspirehep.net/literature/1886830)]
+[3] P.-C. Sun, *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization,* [[Master National Central University [Thesis]](https://inspirehep.net/literature/1886830)]
 
-P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
+[4] P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
 
+- Our paper [4] was selected for inclusion in the <font color=black>Nature Index</font>.
+- The paper [1] has the most citations. 
 
 ---
 
