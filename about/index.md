@@ -25,11 +25,13 @@ modified: 2021-02-02
 - We develop the algorithm with GUI so that engineers can easily choose the optimized cost effective solution from those possible solutions.
 
 <li>Field application engineer (FAE):</li> 
+
 - erving as a communication bridge between our engineering team and global customers.
 - Supporting the technical discussion with global customers.
 - Organizing team members to work on projects.  
 
 <li>Advanced research:</li> 
+
 - Studying analytic calculations, simulation of electromagnetic theory, circuit topology as well as new design platform.
 </ol>
 
