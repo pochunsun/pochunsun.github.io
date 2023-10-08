@@ -12,12 +12,6 @@ modified: 2021-02-02
 (Jul 2021 - Present)<br> 
 #### R&D Engineer
 <ol>
-<li>Design engineer for high power magnetics:</li> 
-  
-- Designing the high power magnetics for automotive applications, such as electrical reactor, transformer, PFC choke, output choke (including coupled inductors) for EV/HEV/FCEV. 
-- I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr.
-- Recently, I have involved in numerous projects that are related to OBC+DCDC combined Xfmr, a state-of-the-art concept where we integrate OBC Xfmr and DCDC Xfmr into a single Xfmr. This high-end Xfmr might become a cost-effective solution in the future.
-
 <li>Developing automated design by Python:</li> 
 
 - I am familiar with Python and proficient in constructing theoretical models and solving mathematical problems.
@@ -32,8 +26,15 @@ modified: 2021-02-02
 
 <li>Advanced research:</li> 
 
-- Studying analytic calculations, simulation of electromagnetic theory, circuit topology as well as new design platform.
+- Studying analytic calculations, Electromagnetic theory, circuit topology as well as new design platform.
 </ol>
+
+<li>Design engineer for high power magnetics:</li> 
+  
+- Designing the high power magnetics for automotive applications, such as electrical reactor, transformer, PFC choke, output choke (including coupled inductors) for EV/HEV/FCEV. 
+- I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr.
+- Recently, I have involved in numerous projects that are related to OBC+DCDC combined Xfmr, a state-of-the-art concept where we integrate OBC Xfmr and DCDC Xfmr into a single Xfmr. This high-end Xfmr might become a cost-effective solution in the future.
+
 
 ---
 
