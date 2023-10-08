@@ -9,8 +9,10 @@ modified: 2021-02-02
 ---
 # <font color=black>Experience</font>
 
-(Jul 2021 - Present)<br> 
-#### R&D Engineer
+#### R&D Engineer 
+
+Electronics company in Taiwan (Jul 2021 - Present)<br> 
+
 <ol>
 <li><b> Developing automated design by Python:</b></li> 
 
