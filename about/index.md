@@ -20,7 +20,7 @@ modified: 2021-02-02
 
 <li><b> Field application engineer (FAE):</b></li> 
 
-- erving as a communication bridge between our engineering team and global customers.
+- Serving as a communication bridge between our engineering team and global customers.
 - Supporting the technical discussion with global customers.
 - Organizing team members to work on projects.  
 
