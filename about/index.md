@@ -27,7 +27,7 @@ modified: 2021-02-02
 <li>Advanced research:</li> 
 
 - Studying analytic calculations, Electromagnetic theory, circuit topology as well as new design platform.
-</ol>
+
 
 <li>Design engineer for high power magnetics:</li> 
   
@@ -35,7 +35,7 @@ modified: 2021-02-02
 - I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr.
 - Recently, I have involved in numerous projects that are related to OBC+DCDC combined Xfmr, a state-of-the-art concept where we integrate OBC Xfmr and DCDC Xfmr into a single Xfmr. This high-end Xfmr might become a cost-effective solution in the future.
 
-
+</ol>
 ---
 
 # <font color=black>Education</font>
