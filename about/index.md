@@ -12,7 +12,7 @@ modified: 2021-02-02
 (Jul 2021 - Present)<br> 
 #### R&D Engineer
 <ol>
-<li>Developing automated design by Python:</li> 
+<li>##### Developing automated design by Python:</li> 
 
 - I am familiar with Python and proficient in constructing theoretical models and solving mathematical problems.
 - For Xfmr design, it involves a variety of architectures and numerous design parameters (typically they have $\sim 100000$ possible solutions for one customer's requirement).
