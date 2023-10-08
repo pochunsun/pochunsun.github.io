@@ -13,22 +13,24 @@ modified: 2021-02-02
 #### R&D Engineer
 <ol>
 <li>Design engineer for high power magnetics:</li> 
+  
 - Designing the high power magnetics for automotive applications, such as electrical reactor, transformer, PFC choke, output choke (including coupled inductors) for EV/HEV/FCEV. 
-- I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr. 
+- I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr.
 - Recently, I have involved in numerous projects that are related to OBC+DCDC combined Xfmr, a state-of-the-art concept where we integrate OBC Xfmr and DCDC Xfmr into a single Xfmr. This high-end Xfmr might become a cost-effective solution in the future.
 
-- Developing automated design by Python:
--- I am familiar with Python and proficient in constructing theoretical models and solving mathematical problems. 
--- For Xfmr design, it involves a variety of architectures and numerous design parameters (typically they have $\sim 100000$ possible solutions for one customer's requirement). 
--- We develop the algorithm with GUI so that engineers can easily choose the optimized cost effective solution from those possible solutions.
+<li>Developing automated design by Python:</li> 
 
-- Field application engineer (FAE):
--- erving as a communication bridge between our engineering team and global customers.
--- Supporting the technical discussion with global customers.
--- Organizing team members to work on projects.  
+- I am familiar with Python and proficient in constructing theoretical models and solving mathematical problems.
+- For Xfmr design, it involves a variety of architectures and numerous design parameters (typically they have $\sim 100000$ possible solutions for one customer's requirement).
+- We develop the algorithm with GUI so that engineers can easily choose the optimized cost effective solution from those possible solutions.
 
-- Advanced research:
--- Studying analytic calculations, simulation of electromagnetic theory, circuit topology as well as new design platform.
+<li>Field application engineer (FAE):</li> 
+- erving as a communication bridge between our engineering team and global customers.
+- Supporting the technical discussion with global customers.
+- Organizing team members to work on projects.  
+
+<li>Advanced research:</li> 
+- Studying analytic calculations, simulation of electromagnetic theory, circuit topology as well as new design platform.
 </ol>
 
 ---
