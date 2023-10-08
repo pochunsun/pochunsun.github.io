@@ -41,6 +41,19 @@ R&D Engineer (Jul 2021 - Present)<br>
 
 ---
 
+# <font color=black>Publication</font>
+P.-C. Sun, *Entanglement Islands from Holographic Thermalization of Rotating Charged Black Hole,* [[arXiv:2108.12557 [hep-th]](https://inspirehep.net/authors/1829882)]
+
+P.-C. Sun, *The Influence of Angular Momentum and Chemical Potential on Holographic Entanglement Entropy,* [[arXiv:2107.08215 [hep-th]](https://inspirehep.net/literature/1887047)]
+
+P.-C. Sun, *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization,* [[Master National Central University [Thesis]](https://inspirehep.net/literature/1886830)]
+
+P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
+
+
+---
+
+
 # <font color=black>Education</font>
 ## <font color=black>M.S. in Physics</font>, [<font color=black>Natl. Central U</font>](https://www.phy.ncu.edu.tw/en/%E9%A6%96%E9%A0%81-english/).
 (Sep 2019 - Jun 2021)<br> 
@@ -67,26 +80,15 @@ R&D Engineer (Jul 2021 - Present)<br>
 <a href="{{ site.url }}/Grade/" class="btn btn-info">Excellent Subjects</a> 
 
 
-
----
-
-# <font color=black>Publication</font>
-P.-C. Sun, *Entanglement Islands from Holographic Thermalization of Rotating Charged Black Hole,* [[arXiv:2108.12557 [hep-th]](https://inspirehep.net/authors/1829882)]
-
-P.-C. Sun, *The Influence of Angular Momentum and Chemical Potential on Holographic Entanglement Entropy,* [[arXiv:2107.08215 [hep-th]](https://inspirehep.net/literature/1887047)]
-
-P.-C. Sun, *Time Evolution of the Holographic Entanglement Entropy from Black Hole Thermalization,* [[Master National Central University [Thesis]](https://inspirehep.net/literature/1886830)]
-
-P.-C. Sun, D.-S. Lee and C.-P. Yeh, *Holographic approach to thermalization in general anisotropic theories,* [*JHEP* **03**, 164 (2021)](https://doi.org/10.1007/JHEP03(2021)164) [[arXiv:2011.02716 [hep-th]](https://inspirehep.net/literature/1828509)]
-
 ---
 
 # <font color=black>Programming Language</font>
-- Ansys Maxwell 
 - Mathematica
 - Python(Pytorch)
+- Python script for Ansys
 - MATLAB
 - Maple
+- Ansys Maxwell 
 - Latex
 - Mathcad
 
