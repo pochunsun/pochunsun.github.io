@@ -11,6 +11,7 @@ modified: 2021-02-02
 
 (Jul 2021 - Present)<br> 
 #### R&D Engineer
+<ol>
 <li>Design engineer for high power magnetics:</li> 
 - Designing the high power magnetics for automotive applications, such as electrical reactor, transformer, PFC choke, output choke (including coupled inductors) for EV/HEV/FCEV. 
 - I mainly focus on on board charger (OBC) and DCDC converters in powertrain, such as 11kW/22kW CLLLC or DAB (in three/two phases) OBC Xfmr, and phase-shifted full bridge(PSFB) DC/DC Xfmr. 
@@ -28,7 +29,7 @@ modified: 2021-02-02
 
 - Advanced research:
 -- Studying analytic calculations, simulation of electromagnetic theory, circuit topology as well as new design platform.
-
+</ol>
 
 ---
 
