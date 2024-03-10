@@ -18,7 +18,7 @@ R&D Engineer (Jul 2021 - Present)<br>
 <li><b> Advanced research:</b></li> 
 
 - Study the state-of-the art paper to understand the cutting edge technology, and making connection to the customer needs.
-- 
+
 <li><b> Developing automated design by Python:</b></li> 
 
 - I am familiar with Python and proficient in constructing theoretical models and solving mathematical problems. 
